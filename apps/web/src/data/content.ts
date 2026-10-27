@@ -73,6 +73,7 @@ export const stories = [
     subtitle: "Komplexní informační systém pro optimalizaci a řízení firemních procesů.",
     image: "13-voňavá-odvěšovna-scaled.jpg",
     logo: "homepage-reference-krasno.png",
+    logoOnLight: "homepage-reference-krasno.png",
     summary:
       "Díky kombinaci SAP ERP a S2AP for Food řídí MP Krásno výrobu, finance i logistiku v jednom systému.",
     challenges: [
@@ -106,6 +107,7 @@ export const stories = [
       "Nasazení informačního systému SAP S/4HANA včetně financí a logistiky během 4 měsíců.",
     image: "nasi-zakaznici-marvinpac-bg.jpg",
     logo: "nasi-zakaznici-marvinpac-logo.png",
+    logoOnLight: "MARVINPAC-SMALL.svg",
     summary:
       "Rychlé nasazení SAP S/4HANA umožnilo společnosti Marvinpac zvýšit produkci a podpořit mezinárodní růst.",
     challenges: [
@@ -139,6 +141,7 @@ export const stories = [
     subtitle: "Podpora logistických procesů od přijetí objednávky až po expedici.",
     image: "Kosik.cz-uvod_Sabris-web.png",
     logo: "Kreslici-platno-37-1.svg",
+    logoOnLight: "Kreslici-platno-37-1.svg",
     summary:
       "Košík.cz využívá logistickou aplikaci propojenou s podnikovými systémy. Důraz je na rychlém zpracování objednávek a přehledu o provozu skladu.",
     challenges: [

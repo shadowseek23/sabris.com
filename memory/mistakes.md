@@ -1,5 +1,11 @@
 # Chyby a prevence
 
+## 2026-10-27 – Bílé logo na světlém podkladu
+
+- Problém: logo Marvinpac z carouselu se sdílelo i na světlých plochách, kde bílé provedení zmizelo.
+- Náprava: na světlých plochách obou variant se používá barevné SVG ze zdrojových podkladů; na fotografiích zůstává bílá varianta.
+- Prevence: při převodu zákaznických log ověřit zdrojové varianty a čitelnost na každé barvě podkladu, včetně detailu reference.
+
 ## 2026-10-27 – Bílení barevného loga
 
 - Problém: společný filtr `brightness(0) invert(1)` proměnil barevné logo Krásna v plný bílý ovál.

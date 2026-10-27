@@ -154,7 +154,7 @@ export default async function ContentPage({ params }: Props) {
       <>
         <PageHero title={story.name} subtitle={story.subtitle} image={story.image} />
         <section className="container story-intro">
-          <Image src={media(story.logo)} width={210} height={100} alt={story.name} />
+          <Image src={media(story.logoOnLight)} width={210} height={100} alt={story.name} />
           <div>
             <span className="eyebrow">{story.category}</span>
             <h2>{story.title}</h2>

@@ -78,7 +78,7 @@ export function MinimalHome() {
         <div className={styles.logoList}>
           {stories.map((s) => (
             <Link href={`/minimal/reference/${s.slug}/`} key={s.slug}>
-              <Image src={media(s.logo)} width={200} height={75} alt={s.name} />
+              <Image src={media(s.logoOnLight)} width={200} height={75} alt={s.name} />
             </Link>
           ))}
         </div>

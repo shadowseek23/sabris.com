@@ -217,7 +217,7 @@ function LogoCarousel() {
                 href={`/reference/${s.slug}/`}
                 inert={i < offset || i > offset + (mobile ? 0 : 2)}
               >
-                <Image src={media(s.logo)} width={180} height={80} alt={s.name} />
+                <Image src={media(s.logoOnLight)} width={180} height={80} alt={s.name} />
               </Link>
             );
           })}
