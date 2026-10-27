@@ -4,3 +4,11 @@ out
 dist
 .claude/worktrees
 bun.lock
+memory/tasks/feature/2026-10-27-nextjs-migration/content-mirror
+AGENTS.md
+.mcp.json
+.claude/settings.json
+.prettierrc
+CLAUDE.md
+TEMPLATE.md
+docs/requirements/nice-to-have.md

@@ -1,5 +1,5 @@
 {
-  "template": "C:\\_dev\\__templates\\project-template",
-  "ref": "b9f1338b50e6571a6d1e451b689a62c0ea5bc7b5",
-  "created": "2026-07-23"
+  "template": "$TEMPLATES/nextjs-sanity-template",
+  "ref": "4d62f056a544947de8aff43daeede1ce578c5b0f",
+  "created": "2026-10-27"
 }

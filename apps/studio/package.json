@@ -7,7 +7,7 @@
   "scripts": {
     "build": "sanity build",
     "deploy": "sanity deploy",
-    "dev": "sanity dev",
+    "dev": "sanity dev --port 5593",
     "start": "sanity start",
     "typecheck": "tsc --noEmit"
   },

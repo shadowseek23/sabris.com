@@ -12,7 +12,7 @@ soubor (např. `CLAUDE.md`), považuj tento dokument za nadřazený zdroj pravdy
 ## Projektový kontext
 
 <!-- TODO: Co se staví a proč. Jedna dvě věty. Co projekt NENÍ (žádný e-shop…). -->
-{{PROJECT_NAME}} — <stručný popis>. Web na Next.js + Sanity CMS.
+sabris.com — <stručný popis>. Web na Next.js + Sanity CMS.
 
 **Stav: projekt nezahájen.** <!-- aktualizuj, jak projekt roste -->
 
@@ -144,3 +144,4 @@ Dokumentace, plány a commity **česky**. Kód, názvy souborů a identifikátor
 <!-- TODO: projektově specifické zákazy (např. „sahat na produkci zápisem"). -->
 
 Než začneš měnit tento soubor, vyžádej si od uživatele explicitní souhlas.
+
