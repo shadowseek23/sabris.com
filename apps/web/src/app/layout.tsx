@@ -1,7 +1,5 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-import { Header } from "@/components/site/header";
-import { Footer } from "@/components/site/shared";
 import "./globals.css";
 
 const openSans = localFont({
@@ -33,9 +31,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <a className="skip-link" href="#main">
           Přejít na obsah
         </a>
-        <Header />
-        <main id="main">{children}</main>
-        <Footer />
+        {children}
       </body>
     </html>
   );

@@ -15,3 +15,5 @@
 - Bez analytiky, externích fontů a nefunkčních odesílacích formulářů.
 
 Produkční nasazení, založení CMS a překlady EN/SK nejsou provedené. Podklady k potvrzení: [obsahová revize](../content-review.md).
+
+Samostatná alternativa pod `/minimal/` propojuje Sabris s minimalistickým stylem inspirovaným Clay. Zachovává obsahová omezení a má všech 16 stránek, vlastní navigaci, responzivní layout a efekty respektující reduced motion. Původní varianta zůstává funkční na původních URL.

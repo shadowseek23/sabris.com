@@ -6,13 +6,19 @@ import { resolve } from "node:path";
 
 const require = createRequire(import.meta.url);
 const origin = process.env.AUDIT_ORIGIN || "http://localhost:5591";
-const output = resolve("memory/tasks/feature/2026-10-27-nextjs-migration/verification");
+const includeMinimal = process.env.AUDIT_MINIMAL === "1";
+const output = resolve(
+  process.env.AUDIT_OUTPUT || "memory/tasks/feature/2026-10-27-nextjs-migration/verification",
+);
 await mkdir(output, { recursive: true });
-const browser = await chromium.launch({ channel: "msedge", headless: true });
+const browserChannel = process.env.AUDIT_BROWSER || "msedge";
+const browser = await chromium.launch({ channel: browserChannel, headless: true });
 const sitemap = await fetch(`${origin}/sitemap.xml`).then((r) => r.text());
-const routes = [...sitemap.matchAll(/<loc>https:\/\/www\.sabris\.com([^<]*)<\/loc>/g)].map(
+const classicRoutes = [...sitemap.matchAll(/<loc>https:\/\/www\.sabris\.com([^<]*)<\/loc>/g)].map(
   (m) => m[1],
 );
+const minimalRoutes = classicRoutes.map((path) => `/minimal${path}`);
+const routes = includeMinimal ? [...classicRoutes, ...minimalRoutes] : classicRoutes;
 const results = [];
 const interactions = [];
 const axe = await readFile(require.resolve("axe-core/axe.min.js"), "utf8");
@@ -30,13 +36,24 @@ try {
     });
     const page = await context.newPage();
     const paths =
-      name === "desktop" ? routes : ["/", "/pribehy-zakazniku/", "/reseni-a-sluzby/", "/kontakt/"];
+      name === "desktop"
+        ? routes
+        : includeMinimal
+          ? [...minimalRoutes, "/", "/pribehy-zakazniku/"]
+          : ["/", "/pribehy-zakazniku/", "/reseni-a-sluzby/", "/kontakt/"];
     for (const path of paths) {
       const errors = [];
       const handleError = (e) => errors.push(e.message);
       page.on("pageerror", handleError);
       const response = await page.goto(`${origin}${path}`, { waitUntil: "load" });
       await page.evaluate(() => document.fonts.ready);
+      await page.evaluate(async () => {
+        const visible = Array.from(document.images).filter((img) => {
+          const box = img.getBoundingClientRect();
+          return box.bottom > 0 && box.top < innerHeight;
+        });
+        await Promise.all(visible.map((img) => img.decode().catch(() => {})));
+      });
       await page.addScriptTag({ content: axe });
       const accessibility = await page.evaluate(async () => {
         const result = await window.axe.run(document, {
@@ -50,6 +67,11 @@ try {
       });
       const structure = await page.evaluate(() => ({
         title: document.title,
+        mains: document.querySelectorAll("main").length,
+        headers: document.querySelectorAll("header").length,
+        footers: document.querySelectorAll("footer").length,
+        canonical: document.querySelector('link[rel="canonical"]')?.href,
+        robots: document.querySelector('meta[name="robots"]')?.content,
         lang: document.documentElement.lang,
         h1: Array.from(document.querySelectorAll("h1")).map((e) => e.textContent),
         width: innerWidth,
@@ -83,8 +105,10 @@ try {
         errors,
         accessibility,
       };
-      if (path === "/" || path === "/pribehy-zakazniku/") {
-        const label = path === "/" ? "home" : "references";
+      if (["/", "/pribehy-zakazniku/", "/minimal/", "/minimal/pribehy-zakazniku/"].includes(path)) {
+        const label =
+          (path.startsWith("/minimal/") ? "minimal-" : "") +
+          (path.endsWith("pribehy-zakazniku/") ? "references" : "home");
         const first = await page.screenshot({
           animations: "disabled",
           caret: "hide",
@@ -98,6 +122,14 @@ try {
         const hash = (b) => createHash("sha256").update(b).digest("hex");
         item.screenshotsStable = hash(first) === hash(second);
         item.screenshotWidth = first.readUInt32BE(16);
+        if (includeMinimal && !path.startsWith("/minimal/") && browserChannel === "msedge") {
+          const baseline = await readFile(
+            resolve(
+              `memory/tasks/feature/2026-10-27-nextjs-migration/verification/${name}-${label}.png`,
+            ),
+          );
+          item.classicBaselineMatch = hash(second) === hash(baseline);
+        }
         await writeFile(`${output}/${name}-${label}.png`, second);
         await page.screenshot({
           path: `${output}/${name}-${label}-full.png`,
@@ -156,6 +188,37 @@ try {
         passed: parseFloat(motion) < 0.001,
       });
     }
+    if (includeMinimal) {
+      await page.emulateMedia({ reducedMotion: "reduce" });
+      await page.goto(origin + "/minimal/pribehy-zakazniku/");
+      await page.getByRole("button", { name: "Potravinářství", exact: true }).click();
+      const filtered = (await page.getByRole("status").textContent()).trim();
+      if (filtered !== "1 příběh") throw new Error("Minimal reference filter failed: " + filtered);
+      interactions.push({ test: "Minimalistická varianta: filtr", device: name, passed: true });
+      await page.goto(origin + "/minimal/reseni-a-sluzby/smart-potravinarstvi/");
+      await page.locator("summary").filter({ hasText: "Co vám řešení přinese" }).click();
+      if (
+        !(await page.locator("details").nth(1).getAttribute("open")) &&
+        (await page.locator("details").nth(1).getAttribute("open")) !== ""
+      )
+        throw new Error("Accordion did not open");
+      interactions.push({ test: "Minimalistická varianta: akordeon", device: name, passed: true });
+      if (name !== "desktop") {
+        await page.getByRole("button", { name: "Otevřít menu", exact: true }).click();
+        if (
+          !(await page
+            .getByRole("navigation", { name: "Navigace minimalistické varianty" })
+            .isVisible())
+        )
+          throw new Error("Mobile navigation missing");
+        await page.getByRole("button", { name: "Zavřít menu", exact: true }).click();
+        interactions.push({
+          test: "Minimalistická varianta: mobilní menu",
+          device: name,
+          passed: true,
+        });
+      }
+    }
     await context.close();
   }
   const internal = [...new Set(results.flatMap((r) => r.links))].filter((h) => !h.startsWith("/#"));
@@ -187,6 +250,10 @@ try {
     (r) =>
       r.status !== 200 ||
       r.h1.length !== 1 ||
+      r.mains !== 1 ||
+      r.headers !== 1 ||
+      r.footers !== 1 ||
+      (r.path.startsWith("/minimal/") && !r.robots?.includes("noindex")) ||
       r.width !== r.clientWidth ||
       r.scrollWidth > r.width ||
       r.errors.length ||
@@ -211,6 +278,9 @@ try {
           stable: r.screenshotsStable,
         })),
         badLinks: linkResults.filter((l) => l.status >= 400),
+        visualReview: results
+          .filter((r) => r.classicBaselineMatch === false)
+          .map((r) => ({ device: r.device, path: r.path })),
         redirects,
       },
       null,

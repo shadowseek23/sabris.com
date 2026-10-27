@@ -11,3 +11,7 @@ Carousel reprodukuje ruční cyklický posun pomocí krajních klonů. Vedlejš�
 Sanity Studio je nepřipojený scaffold. Veřejný web nevyžaduje účet, dataset ani token. Zapojení CMS je samostatný navazující krok.
 
 Sitemap a robots jsou nativní. Metadata/canonical používají cílovou doménu www.sabris.com. Staré služby a partneři mají konkrétní přesměrování.
+
+## Samostatné designové varianty
+
+Root layout sdílí fonty a metadata. Původní stránky jsou beze změny obsahu v route group `(classic)` s vlastním layoutem. Minimalistická alternativa pod `/minimal/` má oddělený layout, CSS Module a 16 staticky generovaných adres. Sdílí obsah i média; vlastní klientské komponenty obsluhují menu a filtr referencí. Viz [návrh varianty](minimal-variant.md) a [ADR-0002](../../memory/decisions/ADR-0002-design-variants.md).

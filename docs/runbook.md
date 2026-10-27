@@ -7,6 +7,7 @@ Vlastník: správce projektu Sabris. Revize: 2026-10-27.
 Zdroj: https://web-dev.sabris.com/. Nový web není nasazený a původní produkci nemění.
 Vývoj http://localhost:5590, produkční náhled http://localhost:5591, budoucí Studio 5593.
 Hosting, DNS a produkční přístupy zatím nejsou propojené.
+Minimalistická varianta: http://localhost:5590/minimal/ nebo produkční náhled http://localhost:5591/minimal/. Obě varianty sdílejí jeden server.
 
 ## Spuštění
 
@@ -53,3 +54,5 @@ Git uchovává zdroj, data a původní média. Obsahové zrcadlo je migrační p
 ## Eskalace
 
 Obsah a certifikáty: zadavatel a Libor. Hostingové kontakty, zálohy a skutečný postup rollbacku doplnit při nasazení a ověřit obnovu.
+
+Při změně stromu layoutů obnovit vlastní dev instanci a případně regenerovat routové typy: `bun run --cwd apps/web next typegen`. Nemazat neověřené cesty ani neukončovat cizí proces.
