@@ -11,25 +11,24 @@ soubor (např. `CLAUDE.md`), považuj tento dokument za nadřazený zdroj pravdy
 
 ## Projektový kontext
 
-<!-- TODO: Co se staví a proč. Jedna dvě věty. Co projekt NENÍ (žádný e-shop…). -->
-sabris.com — <stručný popis>. Web na Next.js + Sanity CMS.
+Sabris — český prezentační web na Next.js. Původní varianta je na `/`, samostatná minimalistická varianta na `/minimal/`. Obsah je verzovaný v kódu; Sanity Studio je připravený scaffold bez připojeného projektu.
 
-**Stav: projekt nezahájen.** <!-- aktualizuj, jak projekt roste -->
+**Stav: lokální funkční web; produkční nasazení neproběhlo.**
 
 ## Než začneš
 
 1. Přečti si tento dokument.
-2. <!-- TODO: odkaz na klíčovou rešerši/inventuru, bez které agent udělá špatná rozhodnutí. Smaž, pokud není. -->
+2. Zdroj pravdy je https://web-dev.sabris.com/, nikoli produkční sabris.com. Obsahová omezení a chybějící podklady: `docs/content-review.md`.
 3. Přečti si aktivní plán v [`memory/tasks/`](memory/tasks/).
-4. Založ Sanity projekt (`sanity init` v `apps/studio`, nebo Sanity MCP) a doplň
-   `projectId`/`dataset` do `apps/studio/sanity.config.ts` a `sanity.cli.ts` (hledej `TODO_PROJECT_ID`).
+4. Veřejný web nepotřebuje Sanity účet ani env. Nový CMS projekt zakládej až při konkrétním zadání připojení CMS.
 5. Když si dokumentace nebo kód odporují, **ohlas to a nezačínej** — rozpor je vada
    zadání a rozhodnutí patří uživateli, ne odhadu.
 
 ## Tři věci, které musíš vědět předem
 
-<!-- TODO: Projektově specifické pasti — věci, které nejsou vidět z kódu a agent je jinak
-     nemůže tušit. Když žádné nejsou, celou sekci smaž. -->
+- Původní design a minimalistická alternativa musí zůstat oddělené; změnu jedné ověř i proti druhé.
+- Nevracej neplatné služby, OpenText/Microsoft, staré fotografie zaměstnanců ani neověřené benefity.
+- Původní carousely mají autoplay vypnutý, 500ms posun a cyklický návrat. Zdrojové podklady jsou u dokončeného migračního plánu.
 
 ## Stack
 
@@ -42,7 +41,7 @@ apps/
 ```
 
 Kořenový `package.json` deklaruje jen `workspaces: ["apps/*"]` a proxy skripty
-(`dev`, `build`, `lint`, `typecheck`) přes `bun run --cwd apps/web <skript>`.
+(`dev`, `build`, `start`, `lint`, `typecheck`) přes `bun run --cwd apps/web <skript>`.
 `studio` skript spouští Sanity Studio.
 
 **`apps/web`:**
@@ -65,7 +64,7 @@ lad empiricky — skill `empirical-srcset`.
 
 ## Deployment
 
-Vercel, **root directory `apps/web`** (monorepo). Provozní postupy — deploy, rollback,
+Hosting zatím není propojený. Případný Vercel používá **root directory `apps/web`**. Provozní postupy — deploy, rollback,
 zálohy, env, diagnostika — v [`docs/runbook.md`](docs/runbook.md).
 
 ## Postup práce
@@ -124,7 +123,7 @@ Struktura a workflow se řídí sdílenými skilly v `~/.claude/skills` (zrcadle
 | Provozní runbook | `runbook` |
 <!-- TODO: přidej skilly specifické pro tento projekt (např. `sanity-migration` u převodu z WordPressu). -->
 
-- **Univerzální rešerše** (Next.js, Vercel, SEO, agentní workflow) jsou v `C:\_dev\_research\`.
+- **Univerzální rešerše** (Next.js, Vercel, SEO, agentní workflow) jsou v `$RESEARCH/`.
   Přečti si relevantní soubor, když téma řešíš — nekopíruj je sem.
   `memory/research/` je jen pro věci specifické pro tenhle projekt.
 - **Operační procedury:** `docs/runbook.md`. Aktualizuj ho ve stejném commitu, kdykoli
@@ -141,7 +140,7 @@ Dokumentace, plány a commity **česky**. Kód, názvy souborů a identifikátor
 
 - Zavádět závislosti bez zápisu do `memory/decisions/` jako ADR.
 - Obcházet supply-chain guard v `bunfig.toml` (`minimumReleaseAgeExcludes`) bez souhlasu uživatele.
-<!-- TODO: projektově specifické zákazy (např. „sahat na produkci zápisem"). -->
+- `git push` provádí výhradně uživatel. Do původního webu nezapisuj.
 
 Než začneš měnit tento soubor, vyžádej si od uživatele explicitní souhlas.
 
