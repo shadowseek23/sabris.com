@@ -117,6 +117,7 @@ export function CustomerCarousel() {
                   height={67}
                   alt={s.name}
                   className="story-logo"
+                  data-logo-appearance={s.slug === "mp-krasno" ? "color" : undefined}
                 />
                 <p>{s.summary}</p>
               </Link>

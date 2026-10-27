@@ -1123,6 +1123,10 @@ input:focus-visible,
   object-fit: contain;
   filter: brightness(0) invert(1);
 }
+.story-logo[data-logo-appearance="color"],
+.reference-image .reference-logo[data-logo-appearance="color"] {
+  filter: none;
+}
 .reference-body {
   padding: 28px;
 }

@@ -1,5 +1,11 @@
 # Chyby a prevence
 
+## 2026-10-27 – Bílení barevného loga
+
+- Problém: společný filtr `brightness(0) invert(1)` proměnil barevné logo Krásna v plný bílý ovál.
+- Náprava: logo Krásna je v přehledu i carouselu explicitně označené jako barevné a filtr se na něj nepoužije.
+- Prevence: před použitím společného filtru na zákaznická loga zkontrolovat, zda asset nemá neprůhledné barevné pozadí uvnitř značky.
+
 ## 2026-10-27 – Věrnost panelu služeb
 
 - Problém: první převod použil pro ilustrace služeb `cover`, vlastní aktivní záložku a odlišné tlačítko. Neodpovídal zdrojovému panelu.

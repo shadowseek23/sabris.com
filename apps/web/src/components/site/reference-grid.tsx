@@ -49,6 +49,7 @@ export function ReferenceGrid() {
                   width={190}
                   height={80}
                   className="reference-logo"
+                  data-logo-appearance={s.slug === "mp-krasno" ? "color" : undefined}
                 />
               </div>
               <div className="reference-body">
