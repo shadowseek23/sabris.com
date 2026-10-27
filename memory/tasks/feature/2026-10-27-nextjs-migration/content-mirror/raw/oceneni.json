@@ -1,0 +1,295 @@
+{
+  "backgrounds": [
+    "url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/ul-tickmark.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Ocenění"
+    },
+    {
+      "level": "H2",
+      "text": "Ocenění v SAP Quality Awards"
+    },
+    {
+      "level": "H2",
+      "text": "Významná SAP ocenění pro Sabris"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "awards cee marvinpac - Ocenění - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/awards-cee-marvinpac.png"
+    },
+    {
+      "alt": "awards css mall cz - Ocenění - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/awards-css-mall-cz.png"
+    },
+    {
+      "alt": "awards cee kostelecke uzeniny - Ocenění - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/awards-cee-kostelecke-uzeniny.png"
+    },
+    {
+      "alt": "awards cee keramika soukup - Ocenění - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/awards-cee-keramika-soukup.png"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/o-sabris/oceneni/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/about-sabris-2/awards/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/ocenenia/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Úvod"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/oceneni-sap-cee-quality-awards-2017-pro-spolecnost-marvinpac-cz/",
+      "text": "Více o získaném ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/vitezem-sap-cee-quality-awards-2014-se-stal-sabris-projekt-v-mall-cz/",
+      "text": "Více o získaném ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/sabris-ziskal-3-misto-v-sap-quality-awards-2012-za-uspesny-projekt-ve-spolecnosti-kostelecke-uzeniny/",
+      "text": "Více o získaném ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/#",
+      "text": "Více o získaném ocenění"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nOcenění\n\nNaše projekty byly opakovaně oceněny v soutěžích, sklízíme úspěchy i na úrovni partnerské spolupráce\n\nÚvod 5 O Sabris 5 Ocenění\nOcenění v SAP Quality Awards\n\n SAP CEE Quality Awards 2017\n\n3. místo v kategorii „Rychlá implementace“ za nasazení informačního systému SAP S/4HANA během pouhých 4 měsíců.\n\nZákazník: Marvinpac CZ\n\nVíce o získaném ocenění\n\nSAP CEE Quality Awards 2014\n\n1. místo v kategorii „HANA Inovace“ za vyvinuté řešení pro řízení logistických procesů na platformě SAP HANA.\n\nZákazník: Internet Mall\n\nVíce o získaném ocenění\n\nSAP CEE Quality Awards 2012\n\n3. místo v kategorii „Střední implementace“ za komplexní nasazení SAP ERP systému.\n\nZákazník: Kostelecké uzeniny\n\nVíce o získaném ocenění\n\nSAP CEE Quality Awards 2010\n\n3. místo v kategorii „Střední implementace“ za komplexní nasazení SAP ERP systému.\n\nZákazník: Keramika Soukup\n\nVýznamná SAP ocenění pro Sabris\nSpeciální cena za získání nového zákazníka v oblasti Cloudu (2020)\n3. místo za nejúspěšnější prodej licencí produktů SAP v ČR (2018)\nSpeciální cena „Skokan roku“ za S/4.CZ řešení & SAP HCM Payroll Success Story (2018)\n3. místo za vývoj cloudového řešení a cena diváků za jeho nejlepší prezentaci v soutěži SAP Innovmatch (2017)\n3. místo za nejúspěšnější prodej licencí produktů SAP v ČR (2016)\nSpeciální cena „Skokan roku“ za nejúspěšnější prodej SAP HANA Solutions v ČR (2014)\n1. místo za nejúspěšnější prodej licencí produktů SAP v ČR (2014)\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Ocenění - sabris.com",
+  "url": "https://web-dev.sabris.com/o-sabris/oceneni/"
+}

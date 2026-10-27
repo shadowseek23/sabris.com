@@ -1,16 +1,20 @@
 # Changelog
 
-Formát podle [Keep a Changelog](https://keepachangelog.com/cs/1.1.0/),
-verzování podle [SemVer](https://semver.org/lang/cs/).
-
 ## [Nezveřejněno]
 
-### Changed
-- Instrukce pro agenty výslovně preferují `bun run` a `bunx` před `npm`, `npx` a
-  `yarn`; binárky workspace se tak spouštějí ze správného kontextu.
-
 ### Added
-- Stack vrstva nad `project-template`: bun workspaces monorepo (`apps/web` Next.js 16
-  App Router + `apps/studio` Sanity), config scaffold (next/tsconfig/eslint/postcss/
-  components.json, sanity config), quality-gate a stack sekce v AGENTS.md. Bez aplikačního
-  kódu — ten si doplní projekt.
+
+- Česká Next.js konverze 16 stránek podle opraveného zdroje web-dev.sabris.com ze sdílené šablony.
+- Přepínač řešení, ruční cyklické carousely, efekty referenčních karet, mobilní menu a filtr referencí.
+- Lokální původní média a fonty, SEO metadata, sitemap, přesměrování a provozní dokumentace.
+- Opakovatelný audit přístupnosti, odkazů, obrázků, rozměrů a screenshotů.
+
+### Changed
+
+- Nabídka zaměřena na Smart potravinářství, MES a MOM; O nás a kariéra dostaly konkrétní texty.
+- Reference omezeny na MP Krásno, Marvinpac a Košík.cz s důrazem na logistiku.
+- Certifikace oddělují ISO 27001 od neověřených detailů; podklady čekající na potvrzení jsou v docs/content-review.md.
+
+### Removed
+
+- Neaktuální služby, OpenText a Microsoft partnerství, společenská odpovědnost, staré tiskové zprávy, materiály a fotografie zaměstnanců.

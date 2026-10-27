@@ -1,0 +1,343 @@
+{
+  "backgrounds": [
+    "linear-gradient(rgba(50, 46, 40, 0.75) 0%, rgba(50, 46, 40, 0.75) 100%), url(\"https://web-dev.sabris.com/wp-content/uploads/2021/06/Kosik.cz-uvod_Sabris-web.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/bg-quote-start.svg\"), url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/bg-quote-end.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/03/challenge-mountain-2.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/list-icon.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/03/reference-tickmark-2.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Košík.cz"
+    },
+    {
+      "level": "H3",
+      "text": "Nasazení SAP EWM pro automatizaci skladu v Bulharsku"
+    },
+    {
+      "level": "H2",
+      "text": "Výzvy, se kterými se zákazník potýkal"
+    },
+    {
+      "level": "H2",
+      "text": "Poskytnutá řešení a služby"
+    },
+    {
+      "level": "H2",
+      "text": "Realizace"
+    },
+    {
+      "level": "H3",
+      "text": "SAP S/4HANA pro podporu všech procesů online prodeje potravin"
+    },
+    {
+      "level": "H3",
+      "text": "Rychlá odezva a stabilní podpora 24/7"
+    },
+    {
+      "level": "H3",
+      "text": "Skokové navýšení výkonu a prověření flexibility realizačních týmů"
+    },
+    {
+      "level": "H3",
+      "text": "Rozvoj řešení v oblasti Business Intelligence"
+    },
+    {
+      "level": "H3",
+      "text": "Řešení pro automatizované zpracování faktur"
+    },
+    {
+      "level": "H2",
+      "text": "Přínosy našeho řešení"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "Kreslici platno 37 1 - Košík.cz - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/Kreslici-platno-37-1.svg"
+    },
+    {
+      "alt": "Kreslici platno 37 1 - Košík.cz - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/Kreslici-platno-37-1.svg"
+    },
+    {
+      "alt": "Kreslici platno 1 kopie 4 - Košík.cz - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/Kreslici-platno-1-kopie-4.png"
+    },
+    {
+      "alt": "Kreslici platno 1 kopie 2 - Košík.cz - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/Kreslici-platno-1-kopie-2.png"
+    },
+    {
+      "alt": "Kreslici platno 1 kopie 5 - Košík.cz - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/Kreslici-platno-1-kopie-5.png"
+    },
+    {
+      "alt": "Kreslici platno 37 1 - Košík.cz - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/Kreslici-platno-37-1.svg"
+    },
+    {
+      "alt": "Kreslici platno 1 - Košík.cz - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/Kreslici-platno-1.png"
+    },
+    {
+      "alt": "Kreslici platno 1 kopie - Košík.cz - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/Kreslici-platno-1-kopie.png"
+    },
+    {
+      "alt": "Kosik.cz uvod Sabris web - Košík.cz - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/Kosik.cz-uvod_Sabris-web.png"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/reference/kosik-cz/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/kosik-cz/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/kosik-cz/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference-en/kosik-en/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/referencie/kosik-cz/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Home"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/",
+      "text": "Reference"
+    },
+    {
+      "href": "https://www.kosik.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://www.kosik.cz/",
+      "text": "www.kosik.cz"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nKošík.cz\n\nNasazení a soustavný rozvoj SAP aplikací k uspokojení poptávky zákazníků ve velmi krátkém čase\n\nHome - Reference - Košík.cz\n\nKošík.cz patří do skupiny Mall Group a řadí se k největším internetovým prodejcům potravin, drogerie a potřeb pro domácnost v České republice.\nOd přijetí objednávky k předání zboží zákazníkovi uběhnou zhruba 2 hodiny. Za tu dobu proběhne několik desítek logistických operací. Celý proces podporuje systém SAP S/4HANA, aby Košík.cz odbavil veškeré objednávky ke spokojenosti zákazníků. V Košíku rozvíjíme i další oblasti – BI, Automatizované zpracování faktur a Extended warehouse management.\n\nNasazení SAP EWM pro automatizaci skladu v Bulharsku\n\nV roce 2021 jsme se zákazníkem realizovali pilotní projekt nasazení SAP Extended Warehouse Management v rámci zahraniční expanze Košík.cz do Bulharska. V budoucnu Košík.cz plánuje další rozšíření produktu do České republiky i dalších lokalit.\n\nDavid Pěknic, CTO ze společnosti Košík.cz, v rozhovoru s Petrem Zavoralem, CEO Sabris CZ, sdílí důvody, které vedly k tomuto rozhodnutí, ale i reálné zkušenosti během i po nasazení SAP EWM.\n\nNáš byznys je výjimečný především tím, že je velmi rychlý. Jakákoliv změna má okamžitý dopad na zákazníka, ať už v pozitivním či negativním slova smyslu. Volba řešení na platformě SAP pro online e-shop, který funguje v režimu 24/7 s dobou dodání do tří hodin od pořízení objednávky na webu, byl zcela jistě výzva. A jsme více než rádi, že se nám to společně s týmem Sabris podařilo!\n\nProsinec, 2019\n\nPetr Mahdal\n\nTechnologist & Advisor, Rockaway Capital\n\nVýzvy, se kterými se zákazník potýkal\n\nKompletní náhrada dosavadního informačního systému kvůli integraci Košík.cz do Mall Group\n\nVysoké nároky na rychlost zpracování dat vzhledem k dynamice logistických procesů v e-commerce\n\nSkokové zvyšování poptávky a s tím spojená nutnost optimalizace expedičního procesu a zajištění flexibility\n\nKritické požadavky na dostupnost 24/7 a rizika spojená se stabilitou a spolehlivostí systému\n\nPoskytnutá řešení a služby\n\nSAP S/4HANA\n\nSabris Kniha došlých faktur\n\nSAP Analytics Cloud\n\nSAP EWM\n\nNasazení SAP\n\nRealizace\nSAP S/4HANA pro podporu všech procesů online prodeje potravin\n\nV roce 2017 se stala značka Košík.cz součástí skupiny Mall. Vysoké ambice nových majitelů přinesly nové výzvy. Jednou z největších bylo pořízení nového informačního systému, který umožní značce Košík.cz obsluhovat řádově více zákazníků a růst na úroveň evropského hráče.\n\nRychlá odezva a stabilní podpora 24/7\n\nProjekt nasazení SAP S/4HANA trval 12 měsíců. Systém zpracovává data v reálném čase a velmi rychle poskytuje informace uživatelům na všechny typy koncových zařízení. Zajišťuje spolehlivou podporu provozu 24 hodin denně, 7 dní v týdnu.\n\nSkokové navýšení výkonu a prověření flexibility realizačních týmů\n\nPrvní ostrou zátěží byly Vánoce s nárůsty prodejů o 50–100 %. Skutečná zkouška ovšem proběhla na jaře 2020, kdy protipandemická opatření raketově zvedla zájem lidí o internetové nákupy. Ve srovnání s produktivním startem došlo k nárůstu objednávek o 300 %. Tato situace dokonale prověřila jak spolehlivost systému SAP, tak i schopnosti realizačních týmů.\n\nSpolečný projekt nasazení kompletního řešení SAP S/4HANA pro Košík.cz by se bez podpory bázových služeb neobešel. Pro nás tuto službu zajistil tým Sabris. To, že poskytuje kvalitní služby, jsme z minulosti věděli, ale jejich profesionalita a přístup předčily naše očekávání.\n\nZnalost SAP S/4HANA, která pro nás byla stěžejní, je na straně Sabris báze velmi komplexní a díky tomu jsme společně prošli všemi úskalími.\nProjekt byl zakončen úspěšnou implementací a děkujeme tímto za skvělou spolupráci.\n\nÚnor, 2020\n\nBarbora Linhová\n\nSAP Lead, Košík.cz\n\nRozvoj řešení v oblasti Business Intelligence\n\nV roce 2020 se informační systém rozrostl o další komponentu – pokročilý BI nástroj SAP Analytic Cloud (SAC). Pro pilotní aplikaci byl zvolen reporting řízeného skladu v reálném čase. Analýzy a Dashboardy se tak přesunuly z počítačů vedoucích pracovníků na obrazovky umístěné přímo v provozu distribučního centra. Pracovníci směny tak mají okamžitý přehled o stavu činností, intenzitě provozu a dalších důležitých operativních ukazatelích.\n\nŘešení pro automatizované zpracování faktur\n\nNa jaře 2021 bylo řešení rozšířeno o nástroje pro automatizaci vstupu a účtování přijatých faktur od společnosti Sabris, které výrazně automatizovaly proces vstupu, kontroly a zaúčtování faktur od dodavatelů.\nŘešení obsahuje nástroj pro rozpoznávání dat z papírových a PDF faktur, jejich kontrolu v SAP a automatické účtování faktur, pokud je vše v pořádku. Nasazením řešení byl výrazně snížen podíl manuální práce v tomto procesu.\n\nPřínosy našeho řešení\n\nSAP S/4HANA poskytuje společnosti robustní a stabilní platformu pro pokrytí všech procesů v dynamické oblasti online prodeje potravin – od zcela čerstvých, přes chlazené, mražené až po ty trvanlivé.\n\nOnline reporting v SAP S/4HANA umožňuje Košík.cz sledovat řadu ukazatelů (výkonnost skladu, úzká místa, statistiku u pracovníků ad.) a dělat rychlá rozhodnutí v čase.\n\nDíky SAP S/4HANA má Košík.cz moderní systém připravený na budoucí inovace a mezinárodní rozvoj businessu (kontinuální rozšiřování o nové technologické celky a jejich integrace).\n\nSAC vizualizuje real-time ukazatele intuitivní a personalizovanou formou. Aplikace je hojně využívána i pro predikce budoucích trendů tržního prostředí a vývoje chování zákazníků.\n\nO společnosti Košík.cz\n\nKošík.cz se řadí k největším internetovým prodejcům potravin, drogerie a potřeb pro domácnost a zahradu v České republice. Denně obslouží na 4 000 zákazníků.\n\nSvým zákazníkům nabízí více než 15 000 položek – potraviny od těch zcela čerstvých, přes chlazené či mražené až po ty trvanlivé, dále drogerii včetně eko variant, potřeby pro domácí mazlíčky, domácnost či zahradu. Součástí široké nabídky je i sortiment potravin pro speciální výživu.\n\nVíce na www.kosik.cz\n\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Košík.cz - sabris.com",
+  "url": "https://web-dev.sabris.com/reference/kosik-cz/"
+}

@@ -1,0 +1,266 @@
+{
+  "backgrounds": [
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Kontakt"
+    },
+    {
+      "level": "H4",
+      "text": "Sabris Solutions, SE"
+    },
+    {
+      "level": "H4",
+      "text": "Pobočka Olomouc"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/kontakt/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/contact/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Úvod"
+    },
+    {
+      "href": "mailto:info@sabris.com",
+      "text": "info@sabris.com"
+    },
+    {
+      "href": "https://maps.google.com/maps?q=Doln%C3%AD+Hej%C4%8D%C3%ADnsk%C3%A1+36&hl=sk&ie=UTF8&ll=49.601644,17.244973&spn=0.011014,0.027874&sll=49.221441,16.581625&sspn=0.002775,0.006968&hnear=Doln%C3%AD+hej%C4%8D%C3%ADnsk%C3%A1+1194%2F36,+779+00+Olomouc,+%C4%8Cesk%C3%A1+republika&t=m&z=16",
+      "text": "Ukázat na mapě"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nKontakt\n\nNavštivte nás osobně nebo nás kontaktujte a my rádi přijedeme za vámi\n\nÚvod 5 Kontakt\nSabris Solutions, SE\n\nPekařská 621/7\n155 00 Praha 5\nČeská republika\n\ntel: +420 234 704 000\ninfo@sabris.com\n\nIČ: 8765804\nDIČ: CZ08765804\n\nZapsána v OR vedeném Měst. soudem v Praze, oddíl H, vložka 2305.\n\nPobočka Olomouc\n\nDolní Hejčínská 1194/36\n770 00 Olomouc\nČeská republika\nUkázat na mapě\n\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Kontakt - sabris.com",
+  "url": "https://web-dev.sabris.com/kontakt/"
+}

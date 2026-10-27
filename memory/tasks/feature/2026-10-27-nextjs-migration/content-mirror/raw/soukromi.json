@@ -1,0 +1,314 @@
+{
+  "backgrounds": [
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H2",
+      "text": "Zásady ochrany osobních údajů"
+    },
+    {
+      "level": "H3",
+      "text": "Úvodem"
+    },
+    {
+      "level": "H3",
+      "text": "Jaké údaje shromažďujeme?"
+    },
+    {
+      "level": "H4",
+      "text": "Vaše osobní údaje můžeme získat z různých zdrojů:"
+    },
+    {
+      "level": "H3",
+      "text": "Z jakého důvodu Vaše data shromažďujeme?"
+    },
+    {
+      "level": "H4",
+      "text": "Údaje o vaší aktivitě využíváme k následujícím účelům:"
+    },
+    {
+      "level": "H4",
+      "text": "Vaše osobní údaje používáme k těmto účelům:"
+    },
+    {
+      "level": "H3",
+      "text": "Váš souhlas"
+    },
+    {
+      "level": "H3",
+      "text": "Zabezpečení a ochrana vašich osobních údajů"
+    },
+    {
+      "level": "H3",
+      "text": "Komu můžeme poskytnout vaše osobní údaje?"
+    },
+    {
+      "level": "H3",
+      "text": "Vaše práva a na koho se obrátit?"
+    },
+    {
+      "level": "H3",
+      "text": "Změny Zásad ochrany osobních údajů"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/privacy-policy/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnych-udajov/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "www.sabris.com"
+    },
+    {
+      "href": "http://www.allaboutcookies.org/",
+      "text": "cookie"
+    },
+    {
+      "href": "https://tools.google.com/dlpage/gaoptout",
+      "text": "https://tools.google.com/dlpage/gaoptout"
+    },
+    {
+      "href": "mailto:marketing@sabris.com",
+      "text": "marketing@sabris.com"
+    },
+    {
+      "href": "mailto:marketing@sabris.com",
+      "text": "marketing@sabris.com"
+    },
+    {
+      "href": "https://www.uoou.cz/",
+      "text": "web"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nZásady ochrany osobních údajů\n\n \n\nZásady ochrany osobních údajů se vztahují na osobní údaje shromážděné společnostmi skupiny Sabris holding, SE v souvislosti s jejich poskytovanými službami. Více informací o skupině Sabris najdete na webové stránce: www.sabris.com. Pro účely ochrany osobních údajů a uplatnění vašich práv je správcem osobních údajů společnost Sabris holding, SE, IČO: 03076199, Pekařská 621/7, Jinonice, 155 00 Praha 5.\n\nÚvodem\n\nCeníme si důvěry, kterou v nás vkládáte tím, že nám v některých případech svěřujete své osobní údaje. Vaše osobní údaje vždy použijeme jen s obecně závaznými právními předpisy a takovým způsobem, aby nedošlo k porušení vašich práv.\n\nO tom, jakým způsobem nakládáme s vašimi osobními údaji, vás budeme pravidelně informovat na této stránce Zásady ochrany osobních údajů. Budete vědět, které údaje shromažďujeme, co s nimi děláme, s kým je sdílíme, jak je chráníme a na koho byste se měli obrátit v případě, že máte jakékoli otázky.\n\nZkrátka uděláme vše pro to, abychom vaše osobní údaje řádně zabezpečili a ochránili je před zneužitím.\n\nJaké údaje shromažďujeme?\n\n„Osobní údaje“ v těchto Zásadách ochrany osobních údajů znamenají informace nebo části informací, které mohou vést k vaší identifikaci a další informace s těmito informacemi související. Mezi tyto informace obvykle patří například vaše jméno, pozice ve firmě, e-mailová adresa a telefonní číslo.\n\nVaše osobní údaje můžeme získat z různých zdrojů:\n\nInformace, které nám poskytnete dobrovolně sami\n\nPři registraci na námi pořádanou akci, když se přihlašujete k odběru novinek a pozvánek na akce zasílaných e-mailem nebo od nás kupujete produkt či službu, vyplňujete kontaktní formulář, kde vznášíte dotaz či poptávku. V kontaktním formuláři najdete vždy informace o účelu zpracování a o jeho právním základu.\n\nInformace, které od vás získáváme přímo: jméno; pozice ve firmě; e-mailová adresa; telefonní číslo; platební údaje; uživatelský obsah, příspěvky a další obsah, který jste odeslali na webové stránky Sabris; jakékoli další osobní údaje, které jste nám poskytli dobrovolně. Ve všech těchto případech, pokud zpracování vašich osobních údajů nebude nezbytné pro plnění smlouvy s vámi, nebo pro jednání o uzavření nebo změně smlouvy uskutečněné na váš návrh, vás požádáme o váš výslovný souhlas s naším zpracováním vašich osobních údajů.\n\nInformace, které získáváme automaticky, když používáte webové stránky Sabris\n\nV souladu s podmínkami těchto Zásad ochrany osobních údajů a příslušnými právními předpisy používáme (nebo třetí strana poskytující služby naším jménem) soubory cookie a další nástroje (nástroje pro analýzu webu), které automaticky získávají informace o vás v případě, že používáte stránky Sabris.\n\nMezi automaticky získávané informace patří: informace o tom, který webový prohlížeč používáte; podrobnosti o webových stránkách, které jste si prohlédli; vaše IP adresa; odkazy, na které jste klikli; vaše uživatelské jméno, profilový obrázek, pohlaví, sítě a další informace, jejichž sdílení jste povolili při používání stránek třetích stran (např. použití tlačítka „To se mi líbí“ na stránce Facebook nebo funkce +1 ve službě Google+). Prosím vezměte na vědomí, že automaticky získávané informace nemusí být a ani ve většině případů nejsou osobními údaji, protože ani jejich kombinace nemusí umožnit vaši identifikaci. V těchto případech nebudete žádáni o souhlas se zpracováním informací, které netvoří osobní údaje. V souladu s legislativou však požadujeme souhlas s ukládáním souborů cookie na váš počítač.\n\nSoubory cookie a anonymní identifikátory používáme ke zvýšení produktivity našich webových stránek a produktů, k přizpůsobení inzerce na míru vašim potřebám a povolení určitých funkcí webových stránek nebo produktů.\n\nVětšina webových prohlížečů ve výchozím nastavení přijímá soubory cookie. Nastavení svého prohlížeče můžete změnit tak, aby soubory cookie blokoval nebo aby vás upozornil, když budou odesílány na vaše zařízení.\n\nNaše webové stránky využívají Analytické Nástroje Google poskytované společností Google, Inc. Tyto nástroje pracují se soubory cookie a pomáhají společnosti Sabris analyzovat, jakým způsobem uživatelé využívají naše stránky a produkty. Pokud si nepřejete, aby společnost Google shromažďovala a používala Data z Analytických Nástrojů Google, můžete si stáhnout a nainstalovat modul plug-in prohlížeče, který je k dispozici na adrese: https://tools.google.com/dlpage/gaoptout\n\nNa našich webových stránkách se mohou objevovat odkazy na webové stránky nebo jiné externí zdroje řízené třetími stranami. Pokud k těmto externím zdrojům prostřednictvím uvedených odkazů přejdete, mějte na paměti, že mají vlastní zásady ochrany osobních údajů. Ve chvíli, kdy tyto webové stránky a zdroje využíváte, platí tyto zásady i pro vás. Než proto na externích webových stránkách uvedete jakékoli osobní údaje, dobře si jejich zásady prostudujte.\n\nInformace, které získáváme z jiných zdrojů\n\nVaše osobní údaje můžeme zpracovávat také z důvodu našeho oprávněného zájmu na šíření marketingových informací o společnostech skupiny Sabris holding, SE. Obvykle k tomuto účelu získáváme vaše osobní údaje z komerčně dostupných zdrojů, jako jsou veřejné databáze, nástroje pro sběr dat a informace od třetích stran, ale právním důvodem může být i plnění smlouvy s vámi. Takové šíření marketingových informací je obchodním sdělením, se kterým můžete kdykoliv vyslovit písemně svůj nesouhlas.\n\nOnline reklama\n\nMůžeme sdílet informace o vaší uživatelské aktivitě na stránkách s důvěryhodnými třetími stranami (např. s inzerenty, reklamními agenturami, reklamními sítěmi atd.), abychom vám poskytli lepší obsah stránek, včetně příslušné reklamy na produkty a služby, o kterých si myslíme, že vás budou zajímat. Umožní-li tyto informace ve svém souboru vaši identifikaci, platí, že požádáme o váš souhlas se zpracováním vašich osobních údajů, nepůjde-li o informace, které získáváme z jiných zdrojů.\n\nTyto třetí strany mohou nastavit a mít přístup ke svým vlastním souborům cookie a obdobným technologiím na vašich zařízeních.\n\nZ jakého důvodu Vaše data shromažďujeme?\nÚdaje o vaší aktivitě využíváme k následujícím účelům:\n\nZlepšení našich produktů a služeb a zvýšení vašeho pohodlí při používání webových stránek Sabris\n\nVaše osobní údaje můžeme použít k následujícím účelům: hodnocení využití stránek Sabris, produktů a služeb; analýza efektivity našich reklam; přizpůsobení stránek Sabris vašim potřebám, zvýšení pohodlí při jejich používání, hodnocení statistik webové aktivity; sběr informací o zařízeních, pomocí nichž si prohlížíte stránky Sabris, např. vaše IP adresa, typ webového prohlížeče nebo používaný operační systém.\n\nVaše osobní údaje používáme k těmto účelům:\n\nKontaktování vaší osoby kvůli nabídce produktů a služeb, včetně produktů a služeb třetích stran, o nichž si myslíme, že by vás mohly zajímat\n\nČiníme tak za předpokladu, že jste k výše uvedenému udělili souhlas (informační e-maily nebo jiné informace týkající se společnosti Sabris). Kdykoli se můžete rozhodnout, že tato sdělení již nechcete přijímat. Jakékoli přímé obchodní sdělení, které vám zašleme, obsahuje nezbytné informace o způsobu odhlášení se z jeho odběru. Odhlášení je také možné prostřednictvím e-mailu: marketing@sabris.com\n\nNabídka produktů nebo služeb, které jste si od nás vyžádali\n\nVaše osobní údaje můžeme použít pro odpovědi na vaše dotazy nebo komentáře, k zaslání upřesňujících informací, nabídky apod.\n\nZpětná vazba na námi poskytované služby\n\nVaše osobní údaje můžeme použít pro zpracování výsledků průzkumu zákaznické spokojenosti, pokud nám k tomu udělíte souhlas.\n\nVáš souhlas\n\nJak už víte, společnost Sabris bude shromažďovat, využívat a zveřejňovat vaše osobní údaje pouze v zákonem dovolených případech. Ve většině případů vás výslovně požádáme o udělení souhlasu, v některých případech však může být právním důvodem oprávněný zájem společností skupiny Sabris holding, SE, nebo plnění smlouvy s vámi.\n\nPokud vyplníte nějaký náš formulář, vždy vás na závěr požádáme o váš výslovný souhlas s naším zpracováním vašich osobních údajů. V některých případech, kdy z vaší aktivity bude patrné, že od nás očekáváte nějaké plnění, může být zpracování vašich osobních údajů nezbytné pro plnění smlouvy, kterou s námi tímto způsobem (i nevýslovným = konkludentním) způsobem uzavřete. Jestliže s tímto nesouhlasíte, přestaňte, prosím, používat stránky Sabris a ani jiným způsobem neposkytujte své osobní údaje jakékoli společnosti ze skupiny Sabris.\n\nZabezpečení a ochrana vašich osobních údajů\n\nK ochraně vašich osobních údajů využijeme všechny přiměřené technické a organizační prostředky a příslušná opatření, přičemž totéž budeme vyžadovat také od všech představitelů třetích stran, kteří budou vaše osobní údaje na základě smlouvy s námi zpracovávat.\n\nPřístup k vašim osobním údajům cizími osobami je zakázán z důvodů prevence neoprávněného přístupu, pozměňování nebo zneužití. Oprávnění k přístupu k vašim osobním údajům mají pouze zaměstnanci a zmocněnci společnosti Sabris, a to pouze v rozsahu vyžadovaném pro daný účel.\n\nKomu můžeme poskytnout vaše osobní údaje?\n\nSabris holding, SE je mezinárodní společností a může sdílet vaše osobní údaje s ostatními dceřinými společnostmi v rámci holdingu a s dalšími důvěryhodnými třetími stranami za účelem nabízení obchodu a služeb.\n\nV případě, že vaše osobní údaje poskytneme jiné společnosti v rámci skupiny Sabris nebo důvěryhodné třetí straně, vynaložíme maximální úsilí, abychom zajistili, že zůstanou chráněny, podnikneme veškeré kroky k jejich ochraně před zneužitím a k zajištění, že budou použity pouze v souladu s našimi instrukcemi a těmito Zásadami ochrany osobních údajů a dalšími platnými zákony a nařízeními na ochranu osobních údajů.\n\nV případě, že máte jakékoli dotazy, komentáře nebo obavy týkající se nakládání s vašimi osobními údaji, přejděte na část vaše práva na ochranu osobních údajů a na koho se obrátit.\n\nVaše práva a na koho se obrátit?\n\nV případě, že máte jakékoli dotazy, komentáře nebo obavy týkající se nakládání s vašimi osobními údaji, můžete nás kontaktovat prostřednictvím e-mailu: marketing@sabris.com\n\nObraťte se na nás v následujících případech:\n\nJestliže si nepřejete, abychom vás v budoucnu kontaktovali.\n\nJestliže byste rádi získali informace o svých osobních údajích, které zpracováváme;\n\nJestliže chcete své osobní údaje v našich záznamech opravit, aktualizovat blokovat, likvidovat nebo odstranit.\n\nChcete-li nahlásit jakékoli zneužití svých osobních údajů.\n\nMáte právo obrátit se na dozorový úřad:\n\nJestliže se domníváte, že jsme nevyřešili vaši otázku nebo žádost v souladu s vašimi právy, nebo z jakéhokoliv jiného důvodu, můžete se obrátit se stížností přímo na dozorový úřad. V České republice je dozorovým úřadem Úřad na ochranu osobních údajů (web).\n\nZměny Zásad ochrany osobních údajů\n\nPoslední aktualizace našich Zásad ochrany osobních údajů byla provedena 17. května 2018. Jejich znění se může čas od času změnit s tím, že na těchto stránkách vždy zveřejníme aktualizovanou verzi. Doporučujeme, abyste tyto stránky navštěvovali pravidelně a přiměřeně často, abyste měli k dispozici aktuální informace o tom, jakým způsobem používáme vaše osobní údaje.\n\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Zásady ochrany osobních údajů - sabris.com",
+  "url": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/"
+}

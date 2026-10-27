@@ -1,6 +1,24 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  trailingSlash: true,
+  async redirects() {
+    return [
+      ...["inovace-sap", "firemni-analytika", "digitalni-firma", "podpora-aplikaci"].map(
+        (slug) => ({
+          source: `/reseni-a-sluzby/${slug}`,
+          destination: "/reseni-a-sluzby/",
+          permanent: true,
+        }),
+      ),
+      {
+        source: "/o-sabris/nasi-partneri",
+        destination: "/reseni-a-sluzby/smart-potravinarstvi/#partnerstvi",
+        permanent: true,
+      },
+      { source: "/reference/kosik-cz-2", destination: "/reference/kosik-cz/", permanent: true },
+    ];
+  },
   images: {
     // Optimalizované formáty (AVIF má lepší kompresi, WebP fallback).
     formats: ["image/avif", "image/webp"],

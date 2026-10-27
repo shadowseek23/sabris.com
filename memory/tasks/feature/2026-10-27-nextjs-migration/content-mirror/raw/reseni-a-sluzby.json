@@ -1,0 +1,316 @@
+{
+  "backgrounds": [
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-icon-1.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-icon-2.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-icon-3.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-icon-4-3.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-icon-5.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "description": "TOP 5 nejžádanějších řešení a služeb od Sabris",
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Řešení a služby"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "inovace na sap_cz",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/07/inovace-na-sap_cz.png"
+    },
+    {
+      "alt": "firemní analytika_cz",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/07/firemni-analytika_cz.png"
+    },
+    {
+      "alt": "smart potravinarstvi_cz",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/07/smart-potravinarstvi_cz.png"
+    },
+    {
+      "alt": "digitalni firma_cz",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/07/diitalni-firma_cz.png"
+    },
+    {
+      "alt": "podpora aplikaci_cz",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/07/podpora-aplikaci_cz.png"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/reseni-a-sluzby/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/solutions-and-services/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/riesenia-a-sluzby/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Úvod"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nŘešení a služby\n\nTOP 5 nejžádanějších řešení a služeb od Sabris\n\nÚvod 5 Řešení a služby\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Řešení a služby - sabris.com",
+  "url": "https://web-dev.sabris.com/reseni-a-sluzby/"
+}

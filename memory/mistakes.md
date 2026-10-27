@@ -1,6 +1,7 @@
-# Chyby a jak se jim příště vyhnout
+# Chyby a prevence
 
-Když agent udělá chybu, zapiš sem: **co se stalo**, **jak se to napravilo**,
-**jak jí příště předejít**. Nejnovější nahoře.
+## 2026-10-27 – Rozsah automatického formátování
 
-<!-- Zatím žádné. -->
+- Problém: první běh kořenového formátování zasáhl i převzaté konfigurační soubory a mohl by upravit původní HTML evidence.
+- Náprava: konfigurace obnovena z přesných bajtů šablony; původní zrcadlo, instrukce a citlivé konfigurace vyloučeny v .prettierignore.
+- Prevence: před prvním format v nově převzaté šabloně zkontrolovat rozsah a vyloučit zdrojové evidence a konfiguraci nástrojů.

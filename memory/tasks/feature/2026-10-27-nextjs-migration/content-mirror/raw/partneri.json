@@ -1,0 +1,411 @@
+{
+  "backgrounds": [
+    "linear-gradient(rgba(50, 46, 40, 0.2) 0%, rgba(50, 46, 40, 0.2) 100%), url(\"https://web-dev.sabris.com/wp-content/uploads/2021/02/our-partners-bg.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Naši partneři"
+    },
+    {
+      "level": "H2",
+      "text": "Jsme partnery významných společností"
+    },
+    {
+      "level": "H2",
+      "text": "Spolupráce se SAP"
+    },
+    {
+      "level": "H2",
+      "text": "Spolupráce s OpenText"
+    },
+    {
+      "level": "H2",
+      "text": "Spolupráce s Microsoft"
+    },
+    {
+      "level": "H2",
+      "text": "Další partnerství"
+    },
+    {
+      "level": "H2",
+      "text": "Členství v organizacích"
+    },
+    {
+      "level": "H3",
+      "text": "CzechTrade"
+    },
+    {
+      "level": "H3",
+      "text": "Český svaz zpracovatelů masa"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "our partners - Naši partneři - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/our-partners.png"
+    },
+    {
+      "alt": "our partners sap - Naši partneři - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/our-partners-sap.png"
+    },
+    {
+      "alt": "our partners - Naši partneři - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/our-partners-opentext.jpg.png"
+    },
+    {
+      "alt": "our partners microsoft - Naši partneři - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/our-partners-microsoft.png"
+    },
+    {
+      "alt": "our partners detail sap - Naši partneři - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/our-partners-detail-sap.png"
+    },
+    {
+      "alt": "our partners detail - Naši partneři - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/our-partners-detail-opentext.png"
+    },
+    {
+      "alt": "our partners detail microsoft - Naši partneři - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/our-partners-detail-microsoft.png"
+    },
+    {
+      "alt": "Ricoh",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/ricoh_1.png"
+    },
+    {
+      "alt": "Sefira",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/sefira_1.png"
+    },
+    {
+      "alt": "Suse",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/suse_1.png"
+    },
+    {
+      "alt": "VMWare",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/vmware_1.png"
+    },
+    {
+      "alt": "Veeam",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/veeam_1.png"
+    },
+    {
+      "alt": "Cloud4com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/cloud4com_1.png"
+    },
+    {
+      "alt": "Commvault",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/commvault_1.png"
+    },
+    {
+      "alt": "Ricoh",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/ricoh_1.png"
+    },
+    {
+      "alt": "Sefira",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/sefira_1.png"
+    },
+    {
+      "alt": "Suse",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/suse_1.png"
+    },
+    {
+      "alt": "VMWare",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/vmware_1.png"
+    },
+    {
+      "alt": "Veeam",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/veeam_1.png"
+    },
+    {
+      "alt": "Cloud4com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/cloud4com_1.png"
+    },
+    {
+      "alt": "Commvault",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/commvault_1.png"
+    },
+    {
+      "alt": "Ricoh",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/ricoh_1.png"
+    },
+    {
+      "alt": "Sefira",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/sefira_1.png"
+    },
+    {
+      "alt": "Suse",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/suse_1.png"
+    },
+    {
+      "alt": "czechtrade 01 - Naši partneři - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/03/czechtrade-01-1280x634.png"
+    },
+    {
+      "alt": "our partners membership cszm - Naši partneři - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/our-partners-membership-cszm.png"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/o-sabris/nasi-partneri/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/about-sabris-2/our-partners/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Úvod"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://www.sap.com/cz/",
+      "text": ""
+    },
+    {
+      "href": "https://www.opentext.com/",
+      "text": ""
+    },
+    {
+      "href": "https://www.microsoft.com/cs-cz",
+      "text": ""
+    },
+    {
+      "href": "https://www.opentext.com/products-and-solutions/products/opentext-suite-for-sap",
+      "text": "OpenText"
+    },
+    {
+      "href": "https://www.sharepointecm.cz/",
+      "text": "SharePoint ECM"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nNaši partneři\n\nSpolupracujeme s předními světovými dodavateli informačních technologií\n\nÚvod 5 O Sabris 5 Naši partneři\nJsme partnery významných společností\n\nAbychom našim zákazníkům zajistili vysokou kvalitu poskytovaných služeb a zároveň jim nabídli moderní vyspělé technologie, spolupracujeme s předními světovými IT dodavateli.\n\nPravidelně u těchto partnerů absolvujeme vzdělávací programy, specializovaná školení a mezinárodně uznávané certifikace nejvyšších úrovní.\n\nSpolupráce se SAP\n\nSe společností SAP spolupracujeme již přes 25 let. Jsme předním obchodním a servisním partnerem na českém i slovenském trhu a strategickým partnerem pro oblast Cloudu (SAP Cloud Focus Partner).\n\nVýznamnou úroveň spolupráce dokládá i fakt, že jsme aktivně zapojeni do diskusí zaměřených na nejnovější technologické inovace pro digitální transformaci firem.\n\nNaše projekty opakovaně získaly ocenění v mezinárodních soutěžích společnosti SAP.\n\nSpolupráce s OpenText\n\nJsme předním obchodním a servisním partnerem společnosti OpenText v České republice a na Slovensku.\n\nDíky dlouholetým zkušenostem s nasazením řešení SAP i OpenText, nabízíme zákazníkům unikátní kompetenci pro integraci SAP ERP prostředí a moderních řešení pro správu dokumentů a procesů. \n\nU zákazníků SAP nyní zaznamenáváme největší zájem o řešení Vendor Invoice Management a Extended ECM for SAP Solutions. Více na webu OpenText.\n\nNaší doménou jsou i ECM řešení od OpenText bez vazby na systém SAP.\n\nSpolupráce s Microsoft\n\nJsme partnerem společnosti Microsoft s kompetencemi GOLD Collaboration and Content, Data Platform, Data Analytics a SILVER Application Development. Naši konzultanti a vývojáři jsou vyškoleni a certifikováni pro práci s technologiemi SharePoint 2013, 2016 a SharePoint Online.\n\nZákazníkům poskytujeme vlastní integrovanou nadstavbu TreeINFO pro správu dokumentů a procesů. Více na webu SharePoint ECM\n\nVe spolupráci s Microsoft zákazníkům nabízíme provoz infrastruktury SAP v robustním a spolehlivém cloudovém prostředí Azure.\n\nDalší partnerství\nČlenství v organizacích\nCzechTrade\n\nŘadu let spolupracujeme s vládní agenturou CzechTrade, která podporuje obchod a export českých firem a pomáhá jim uspět na zahraničních trzích.\n\nDíky této úspěšné spolupráci posilujeme naši obchodní pozici v Brazílii, Chorvatsku, Polsku, Slovinsku a Maďarsku, kde oslovujeme podniky s nabídkou našeho řešení S2AP for Food pro Smart potravinářskou firmu.\n\nČeský svaz zpracovatelů masa\n\nDlouholeté členství v Českém svazu zpracovatelů masa nám umožňuje získávat klíčové informace z oblasti maso-zpracovatelského průmyslu, jako jsou například změny legislativy nebo nejaktuálnější informace z jednání představenstva svazu o směřování a strategii v masném průmyslu.\n\nZároveň nám pomáhá zvyšovat povědomí o značce Sabris a oborovém řešení S2AP for Food mezi zpracovateli masa.\n\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Naši partneři - sabris.com",
+  "url": "https://web-dev.sabris.com/o-sabris/nasi-partneri/"
+}

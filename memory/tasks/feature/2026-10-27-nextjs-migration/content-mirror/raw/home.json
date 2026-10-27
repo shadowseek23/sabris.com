@@ -1,0 +1,521 @@
+{
+  "backgrounds": [
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/purple-galaxy-background_blue-1.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/Group-316.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-bg-1-1.png\"), linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%)",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-bg-2-1.png\"), linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%)",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-bg-3-1.png\"), linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%)",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-bg-4-1.png\"), linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%)",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-bg-5-1.png\"), linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%)",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-icon-1.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-icon-2.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-icon-3.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-icon-4-3.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/homepage-solutions-icon-5.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2022/04/ceska-zbrojovka-png.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2020/10/nasi-zakaznici-marvinpac-bg.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/nasi-zakaznici-nkt-bg.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/bg-lines-6.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/newsletter.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/06/iStock-1279633845-scaled.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/ul-tickmark.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "\nZpřístupníme vám\nkomplexní IT řešení\na podpoříme\nváš soustavný růst\n"
+    },
+    {
+      "level": "H2",
+      "text": "Nejžádanější řešení Sabris"
+    },
+    {
+      "level": "H3",
+      "text": "Inovativní projekty SAP"
+    },
+    {
+      "level": "H3",
+      "text": "Řízení firmy založené na datech"
+    },
+    {
+      "level": "H3",
+      "text": "Smart potravinářská společnost"
+    },
+    {
+      "level": "H3",
+      "text": "Digitální firma"
+    },
+    {
+      "level": "H3",
+      "text": "Moderní podpora aplikací pro vás"
+    },
+    {
+      "level": "H2",
+      "text": "Naši zákazníci"
+    },
+    {
+      "level": "H2",
+      "text": "Přidej se k nám"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "friendly porfessional CZ - Úvod HOMEPAGE - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/08/friendly-porfessional-_-CZ.png"
+    },
+    {
+      "alt": "ceska zbrojovka logo 1 - Úvod HOMEPAGE - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2022/04/ceska-zbrojovka-logo-1.png"
+    },
+    {
+      "alt": "nasi zakaznici marvinpac logo - Úvod HOMEPAGE - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/nasi-zakaznici-marvinpac-logo.png"
+    },
+    {
+      "alt": "nasi zakaznici nkt logo - Úvod HOMEPAGE - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/nasi-zakaznici-nkt-logo.png"
+    },
+    {
+      "alt": "ceska zbrojovka logo 1 - Úvod HOMEPAGE - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2022/04/ceska-zbrojovka-logo-1.png"
+    },
+    {
+      "alt": "nasi zakaznici marvinpac logo - Úvod HOMEPAGE - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/nasi-zakaznici-marvinpac-logo.png"
+    },
+    {
+      "alt": "nasi zakaznici nkt logo - Úvod HOMEPAGE - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/nasi-zakaznici-nkt-logo.png"
+    },
+    {
+      "alt": "ceska zbrojovka logo 1 - Úvod HOMEPAGE - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2022/04/ceska-zbrojovka-logo-1.png"
+    },
+    {
+      "alt": "nasi zakaznici marvinpac logo - Úvod HOMEPAGE - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/nasi-zakaznici-marvinpac-logo.png"
+    },
+    {
+      "alt": "nasi zakaznici nkt logo - Úvod HOMEPAGE - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/nasi-zakaznici-nkt-logo.png"
+    },
+    {
+      "alt": "Panasonic",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/panasonic.png"
+    },
+    {
+      "alt": "Škoda Auto",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/skoda_auto.png"
+    },
+    {
+      "alt": "Tristone",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/tristone.png"
+    },
+    {
+      "alt": "Unilever",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/unilever.svg"
+    },
+    {
+      "alt": "VW",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/vw.png"
+    },
+    {
+      "alt": "Continental",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/continental.svg"
+    },
+    {
+      "alt": "Heineken",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/heineken.svg"
+    },
+    {
+      "alt": "Kooperativa",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/kooperativa.svg"
+    },
+    {
+      "alt": "Krásno",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/08/krasno_12.8._3-1.svg"
+    },
+    {
+      "alt": "Magna",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/magna.svg"
+    },
+    {
+      "alt": "Makro",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/makro-kopie.png"
+    },
+    {
+      "alt": "Mall.cz",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/mall.cz_.svg"
+    },
+    {
+      "alt": "Marvinpac",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/marvinpac.png"
+    },
+    {
+      "alt": "Metrostav",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/metrostav.svg"
+    },
+    {
+      "alt": "ModusLink",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/moduslink.svg"
+    },
+    {
+      "alt": "Net4Gas",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/net4gas.png"
+    },
+    {
+      "alt": "NKT",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/nkt.svg"
+    },
+    {
+      "alt": "OKD",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/okd.png"
+    },
+    {
+      "alt": "Panasonic",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/panasonic.png"
+    },
+    {
+      "alt": "Škoda Auto",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/skoda_auto.png"
+    },
+    {
+      "alt": "Tristone",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/tristone.png"
+    },
+    {
+      "alt": "Unilever",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/unilever.svg"
+    },
+    {
+      "alt": "VW",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/vw.png"
+    },
+    {
+      "alt": "Continental",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/continental.svg"
+    },
+    {
+      "alt": "Heineken",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/heineken.svg"
+    },
+    {
+      "alt": "Kooperativa",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/kooperativa.svg"
+    },
+    {
+      "alt": "Krásno",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/08/krasno_12.8._3-1.svg"
+    },
+    {
+      "alt": "Magna",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/magna.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/#",
+      "text": "INOVACE NA SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/#",
+      "text": "FIREMNÍ ANALYTIKA"
+    },
+    {
+      "href": "https://web-dev.sabris.com/#",
+      "text": "SMART POTRAVINÁŘSTVÍ"
+    },
+    {
+      "href": "https://web-dev.sabris.com/#",
+      "text": "DIGITÁLNÍ FIRMA"
+    },
+    {
+      "href": "https://web-dev.sabris.com/#",
+      "text": "PODPORA APLIKACÍ"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Více"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Více"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Více"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Více"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Více"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://www.sabris.com/zasady-ochrany-osobnich-udaju",
+      "text": "Zásady ochrany osobních údajů"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Udělej první krok"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nZpřístupníme vám\nkomplexní IT řešení\na podpoříme\nváš soustavný růst\nNejžádanější řešení Sabris\nINOVACE NA SAP\nFIREMNÍ ANALYTIKA\nSMART POTRAVINÁŘSTVÍ\nDIGITÁLNÍ FIRMA\nPODPORA APLIKACÍ\nInovativní projekty SAP\n\nPomůžeme vám transformovat a zdokonalit vaše firemní procesy, abyste dosahovali lepších výsledků a stanovených cílů.\n\nK tomu využíváme moderní produkty společnosti SAP, v kombinaci s naším odborným poradenstvím, osvědčenými postupy a „friendly professional“ přístupem.\n\nVíce\nNaši zákazníci\n\nSAP S/4HANA provozovaná z Cloudu poskytuje společnosti Česká zbrojovka v Uherském Brodě kompaktní a výkonné prostředí pro efektivní řízení rozvojové strategie.\n\nNasazení systému SAP S/4HANA v rekordně krátkém čase umožnilo společnosti Marvinpac významně zvýšit produkci a skokově růst.\n\nNaše outsourcingové služby v oblasti personální a mzdové agendy pomohly společnosti NKT v náročném akvizičním období.\n\nSAP S/4HANA provozovaná z Cloudu poskytuje společnosti Česká zbrojovka v Uherském Brodě kompaktní a výkonné prostředí pro efektivní řízení rozvojové strategie.\n\nNasazení systému SAP S/4HANA v rekordně krátkém čase umožnilo společnosti Marvinpac významně zvýšit produkci a skokově růst.\n\nNaše outsourcingové služby v oblasti personální a mzdové agendy pomohly společnosti NKT v náročném akvizičním období.\n\nSAP S/4HANA provozovaná z Cloudu poskytuje společnosti Česká zbrojovka v Uherském Brodě kompaktní a výkonné prostředí pro efektivní řízení rozvojové strategie.\n\nNasazení systému SAP S/4HANA v rekordně krátkém čase umožnilo společnosti Marvinpac významně zvýšit produkci a skokově růst.\n\nNaše outsourcingové služby v oblasti personální a mzdové agendy pomohly společnosti NKT v náročném akvizičním období.\n\nPříběhy zákazníků\n\nBuďte s námi v kontaktu\n\nZhruba 1x měsíčně obdržíte pozvánku na naše akce nebo se s vámi podělíme o novinky ze světa Sabris a námi nabízených řešení. Ať vám nic neuteče!\n\nPokračovat\nPřidej se k nám\n\nPojď s námi dělat zajímavé a inovativní projekty pro zákazníky, kteří jsou špičkami ve svém oboru.\n\nSetkáš se s nejnovějšími technologiemi v oblasti digitalizace a robotizace, budeš se podílet na vývoji nových řešení nebo je přímo nasazovat v prostředí nadnárodních firem.\n\nKravatu u nás nepotřebuješ, vítáme schopné lidi s otevřenou hlavou, kteří mají chuť učit se novým věcem a posouvat své hranice.\n\nPodpoříme tě v kariérním růstu\nUmožníme ti se dál rozvíjet a vzdělávat\nUdělej první krok\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Systémový integrátor - sabris.com",
+  "url": "https://web-dev.sabris.com/"
+}

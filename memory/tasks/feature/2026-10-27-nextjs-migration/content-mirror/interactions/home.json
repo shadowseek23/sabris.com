@@ -1,0 +1,84 @@
+{
+  "carousels": [
+    {
+      "allowtouchmove": "off",
+      "arrow": "on",
+      "autoSpeed": "1000",
+      "autoplay": "off",
+      "autowidth": "on",
+      "center_mode": "on",
+      "cfshadow": "on",
+      "cover_rotate": "50",
+      "desktop": "4",
+      "dots": "on",
+      "hashNavigation": "off",
+      "item_spacing": "48px",
+      "item_spacing_phone": "48px",
+      "item_spacing_tablet": "48px",
+      "lazybefore": "off",
+      "lazyload": "off",
+      "loop": "on",
+      "mobile": "1",
+      "multislide": "off",
+      "order": "0",
+      "pause_onhover": "off",
+      "scroller_effect": "off",
+      "scroller_speed": "4000",
+      "simulatetouch": "off",
+      "slider_effec": "1",
+      "speed": "500",
+      "tablet": "3"
+    },
+    {
+      "allowtouchmove": "off",
+      "arrow": "on",
+      "autoSpeed": "1000",
+      "autoplay": "off",
+      "autowidth": "off",
+      "center_mode": "off",
+      "cfshadow": "on",
+      "cover_rotate": "50",
+      "desktop": "5",
+      "dots": "off",
+      "hashNavigation": "off",
+      "item_spacing": "30",
+      "item_spacing_phone": "30",
+      "item_spacing_tablet": "30",
+      "lazybefore": "off",
+      "lazyload": "off",
+      "loop": "on",
+      "mobile": "1",
+      "multislide": "on",
+      "order": "1",
+      "pause_onhover": "off",
+      "scroller_effect": "off",
+      "scroller_speed": "4000",
+      "simulatetouch": "off",
+      "slider_effec": "1",
+      "speed": "500",
+      "tablet": "3"
+    }
+  ],
+  "tabs": [
+    {
+      "class": "et_pb_tab_0",
+      "text": "INOVACE NA SAP"
+    },
+    {
+      "class": "et_pb_tab_1",
+      "text": "FIREMNÍ ANALYTIKA"
+    },
+    {
+      "class": "et_pb_tab_2 et_pb_tab_active",
+      "text": "SMART POTRAVINÁŘSTVÍ"
+    },
+    {
+      "class": "et_pb_tab_3",
+      "text": "DIGITÁLNÍ FIRMA"
+    },
+    {
+      "class": "et_pb_tab_4",
+      "text": "PODPORA APLIKACÍ"
+    }
+  ]
+}

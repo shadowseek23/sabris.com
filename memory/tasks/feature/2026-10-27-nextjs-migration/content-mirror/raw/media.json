@@ -1,0 +1,431 @@
+{
+  "backgrounds": [
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/11/Sabris_programmer.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/04/2021_210161_zavoral_obr_01-1.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2020/11/Sabris-Zavoral-Petr-CEO_gallery-big.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/03/iStock-962093568_uprx.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/06/iStock-1279633845-scaled.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2020/06/Demos_ico.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2019/10/Sabris_Docuride-2019_pict.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2019/08/Sabris_inovace.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2018/05/Sabris_pict_630px.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Média"
+    },
+    {
+      "level": "H2",
+      "text": "Loga ke stažení"
+    },
+    {
+      "level": "H2",
+      "text": "Napsali o nás"
+    },
+    {
+      "level": "H2",
+      "text": "Článek: Nemáte lidi? Tak si je vypůjčte."
+    },
+    {
+      "level": "H2",
+      "text": "Článek: Systém ERP ve výrobním prostředí od Petra Zavorala"
+    },
+    {
+      "level": "H2",
+      "text": "Tisková zpráva: Změna ve vedení české pobočky Sabris"
+    },
+    {
+      "level": "H2",
+      "text": "Anketa: Moderní ERP pomůže k vyšší efektivitě"
+    },
+    {
+      "level": "H2",
+      "text": "Tisková zpráva: Sabris řešení pro potravináře získalo certifikaci pro SAP S/4HANA"
+    },
+    {
+      "level": "H2",
+      "text": "Tisková zpráva: Démos Trade nasadí ve spolupráci se Sabris systém SAP S/4HANA"
+    },
+    {
+      "level": "H2",
+      "text": "Reportáž z Docuride 2019: Technologie mění svět i byznys"
+    },
+    {
+      "level": "H2",
+      "text": "Článek: Nejste už z přetlaku informací unaveni?"
+    },
+    {
+      "level": "H2",
+      "text": "Článek: Moderní podnikový systém jako skvělý nástroj pro byznys"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "media logo sabris 1 - Média - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/media-logo-sabris-1.png"
+    },
+    {
+      "alt": "media logo sabris 2 - Média - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/media-logo-sabris-2.png"
+    },
+    {
+      "alt": "media logo docuride - Média - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/media-logo-docuride.png"
+    },
+    {
+      "alt": "<",
+      "src": "https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/pagination-next.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/o-sabris/media/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/about-sabris-2/media/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Úvod"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/sabris_bilepozadi.pdf",
+      "text": "Bílé pozadí (PDF)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/sabris_bilepozadi.png",
+      "text": "Bílé pozadí (PNG)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/sabris_tmavepozadi.pdf",
+      "text": "Tmavé pozadí (PDF)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/sabris_tmavepozadi-1.png",
+      "text": "Tmavé pozadí (PNG)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/sabris_FP_bilepozadi.pdf",
+      "text": "Bílé pozadí (PDF)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/sabris_FP_svetlepozadi.png",
+      "text": "Bílé pozadí (PNG)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/sabris_FP_tmavepozadi.pdf",
+      "text": "Tmavé pozadí (PDF)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/sabris_FP_tmavepozadi.png",
+      "text": "Tmavé pozadí (PNG)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/docuride_bilepozadi.pdf",
+      "text": "Bílé pozadí (PDF)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/docuride_bilepozadi.png",
+      "text": "Bílé pozadí (PNG)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/docuride_tmavepozadi.pdf",
+      "text": "Tmavé pozadí (PDF)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/docuride_tmavepozadi.png",
+      "text": "Tmavé pozadí (PNG)"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/02/CZ_Sabris-profil_A4_2020_el.pdf",
+      "text": "Profil společnosti"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/02/EN_Sabris-profile_A4_2020_el.pdf",
+      "text": "Profil společnosti [EN]"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/03/Sabris_vyrocni-zprava_2019_el.pdf",
+      "text": "Výroční zpráva 2019"
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/clanek-nemate-lidi-tak-si-je-vypujcte/",
+      "text": "10. 11. 2021\n\t\t\t\t\tČlánek: Nemáte lidi? Tak si je vypůjčte.\n\t\t\t\t\tTak jako výrobce trápí nedostatek surovin, potýká se sektor IT dlouhodobě s nedostatkem lidských kapacit, především pokud jde o vývojáře. Řešením může být jejich pronájem."
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/petr-zavoral-system-erp-ve-vyrobnim-prostredi/",
+      "text": "3. 3. 2021\n\t\t\t\t\tČlánek: Systém ERP ve výrobním prostředí od Petra Zavorala\n\t\t\t\t\tDobře zavedený software ERP může výrazně zlepšit provoz firmy ve všech směrech a značně posílit její konkurenceschopnost.\nZajišťuje standardy, kvalitu, lepší sledovatelnost a neustálé zlepšování firemních dat a procesů."
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/oznameni-zmeny-ve-vedeni-spolecnosti-sabris-cz/",
+      "text": "30. 11. 2020\n\t\t\t\t\tTisková zpráva: Změna ve vedení české pobočky Sabris\n\t\t\t\t\tNovým CEO společnosti Sabris CZ s.r.o. byl v listopadu 2020 jmenován Petr Zavoral, zkušený odborník na oblast podnikových informačních systémů. Ve funkci nahradil Jana Gábriše, který ze společnosti odchází."
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/anketa-casopisu-erp-sprava-zmen-robotizace-vzdaleny-provoz/",
+      "text": "31. 10. 2020\n\t\t\t\t\tAnketa: Moderní ERP pomůže k vyšší efektivitě\n\t\t\t\t\tŘada společností čelí velkému tlaku na zvyšování vnitřní efektivity. Té lze dosáhnout automatizací činností, lepším plánováním nebo kvalitním řízením výroby a nákladů detailním controllingem, říká Jan Gábriš ze společnosti Sabris CZ."
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/ceske-reseni-pro-potravinare-vyvinute-spolecnosti-sabris-ziskalo-certifikaci-pro-sap-s-4hana/",
+      "text": "29. 9. 2020\n\t\t\t\t\tTisková zpráva: Sabris řešení pro potravináře získalo certifikaci pro SAP S/4HANA\n\t\t\t\t\tŘešení S2AP for Food pro komplexní řízení a kontrolu procesní výroby, využívané řadou velkých potravinářských firem, bylo certifikováno jako integrované partnerské řešení pro SAP S/4HANA."
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/spolecnost-demos-trade-nasadi-ve-spolupraci-se-sabris-informacni-system-sap-s-4hana/",
+      "text": "29. 6. 2020\n\t\t\t\t\tTisková zpráva: Démos Trade nasadí ve spolupráci se Sabris systém SAP S/4HANA\n\t\t\t\t\tNejvětší český dodavatel materiálů na výrobu nábytku zvolil pro podporu dynamického růstu a standardizaci procesů nový ERP systém na platformě SAP S/4HANA. Dodavatelem řešení bude Sabris."
+    },
+    {
+      "href": "https://web-dev.sabris.com/napsali-o-nas/docuride-2019-technologie-meni-svet-i-byznys/",
+      "text": "6. 10. 2019\n\t\t\t\t\tReportáž z Docuride 2019: Technologie mění svět i byznys\n\t\t\t\t\tJaký byl 12. ročník konference Docuride a jaká inovativní témata přinesl. Významným hostem byl vědecký ředitel CIIRC ČVUT, Vladimír Mařík, který zde hovořil o propojení umělé inteligence a průmyslové výroby."
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/stepan-bouda-nejste-uz-z-pretlaku-informaci-unaveni/",
+      "text": "6. 8. 2019\n\t\t\t\t\tČlánek: Nejste už z přetlaku informací unaveni?\n\t\t\t\t\tCloud, Industry 4.0, umělá inteligence, strojové učení, blockchain a další technologie se masivně šíří naším světem.  Není vůbec snadné rozpoznat, jaké inovace zvýší úspěšnost firmy a které naopak jen zatíží její rozpočet."
+    },
+    {
+      "href": "https://web-dev.sabris.com/novinky/moderni-podnikovy-system-muze-byt-skvelym-nastrojem-pro-byznys/",
+      "text": "15. 5. 2018\n\t\t\t\t\tČlánek: Moderní podnikový systém jako skvělý nástroj pro byznys\n\t\t\t\t\tŘada lidí vnímá nasazení informačního systému jako nutné zlo. Vhodně zvolený systém v kombinaci se správným přístupem přitom dokáže firmu probrat podobně jako defibrilátor člověka."
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/page/2/",
+      "text": "2"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/page/3/",
+      "text": "3"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/page/2/",
+      "text": ""
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nMédia\n\nJsme otevřeni komunikaci s novináři, rádi vám podáme informace o aktuálním dění u nás\n\nÚvod 5 O Sabris 5 Média\nLoga ke stažení\nBílé pozadí (PDF)\nBílé pozadí (PNG)\nTmavé pozadí (PDF)\nTmavé pozadí (PNG)\nBílé pozadí (PDF)\nBílé pozadí (PNG)\nTmavé pozadí (PDF)\nTmavé pozadí (PNG)\nBílé pozadí (PDF)\nBílé pozadí (PNG)\nTmavé pozadí (PDF)\nTmavé pozadí (PNG)\n\nMateriály ke stažení\n\nProfil společnosti\n\nProfil společnosti [EN]\n\nVýroční zpráva 2019\n\nNapsali o nás\n10. 11. 2021\nČlánek: Nemáte lidi? Tak si je vypůjčte.\nTak jako výrobce trápí nedostatek surovin, potýká se sektor IT dlouhodobě s nedostatkem lidských kapacit, především pokud jde o vývojáře. Řešením může být jejich pronájem.\n3. 3. 2021\nČlánek: Systém ERP ve výrobním prostředí od Petra Zavorala\nDobře zavedený software ERP může výrazně zlepšit provoz firmy ve všech směrech a značně posílit její konkurenceschopnost. Zajišťuje standardy, kvalitu, lepší sledovatelnost a neustálé zlepšování firemních dat a procesů.\n30. 11. 2020\nTisková zpráva: Změna ve vedení české pobočky Sabris\nNovým CEO společnosti Sabris CZ s.r.o. byl v listopadu 2020 jmenován Petr Zavoral, zkušený odborník na oblast podnikových informačních systémů. Ve funkci nahradil Jana Gábriše, který ze společnosti odchází.\n31. 10. 2020\nAnketa: Moderní ERP pomůže k vyšší efektivitě\nŘada společností čelí velkému tlaku na zvyšování vnitřní efektivity. Té lze dosáhnout automatizací činností, lepším plánováním nebo kvalitním řízením výroby a nákladů detailním controllingem, říká Jan Gábriš ze společnosti Sabris CZ.\n29. 9. 2020\nTisková zpráva: Sabris řešení pro potravináře získalo certifikaci pro SAP S/4HANA\nŘešení S2AP for Food pro komplexní řízení a kontrolu procesní výroby, využívané řadou velkých potravinářských firem, bylo certifikováno jako integrované partnerské řešení pro SAP S/4HANA.\n29. 6. 2020\nTisková zpráva: Démos Trade nasadí ve spolupráci se Sabris systém SAP S/4HANA\nNejvětší český dodavatel materiálů na výrobu nábytku zvolil pro podporu dynamického růstu a standardizaci procesů nový ERP systém na platformě SAP S/4HANA. Dodavatelem řešení bude Sabris.\n6. 10. 2019\nReportáž z Docuride 2019: Technologie mění svět i byznys\nJaký byl 12. ročník konference Docuride a jaká inovativní témata přinesl. Významným hostem byl vědecký ředitel CIIRC ČVUT, Vladimír Mařík, který zde hovořil o propojení umělé inteligence a průmyslové výroby.\n6. 8. 2019\nČlánek: Nejste už z přetlaku informací unaveni?\nCloud, Industry 4.0, umělá inteligence, strojové učení, blockchain a další technologie se masivně šíří naším světem. Není vůbec snadné rozpoznat, jaké inovace zvýší úspěšnost firmy a které naopak jen zatíží její rozpočet.\n15. 5. 2018\nČlánek: Moderní podnikový systém jako skvělý nástroj pro byznys\nŘada lidí vnímá nasazení informačního systému jako nutné zlo. Vhodně zvolený systém v kombinaci se správným přístupem přitom dokáže firmu probrat podobně jako defibrilátor člověka.\n123\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Média - sabris.com",
+  "url": "https://web-dev.sabris.com/o-sabris/media/"
+}

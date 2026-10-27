@@ -1,0 +1,299 @@
+{
+  "backgrounds": [
+    "linear-gradient(rgba(50, 46, 40, 0.5) 0%, rgba(50, 46, 40, 0.5) 100%), url(\"https://web-dev.sabris.com/wp-content/uploads/2021/05/uvodka_smart-potravin%C3%A1%C5%99stv%C3%AD-scaled.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/bg-quote-start.svg\"), url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/bg-quote-end.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/03/challenge-mountain-2.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/ul-tickmark2.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/03/reference-contact-us-bg.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Smart potravinářství"
+    },
+    {
+      "level": "H2",
+      "text": "Řízení, optimalizace a automatizace procesů"
+    },
+    {
+      "level": "H2",
+      "text": "Současné výzvy"
+    },
+    {
+      "level": "H2",
+      "text": "Hlavní přínosy"
+    },
+    {
+      "level": "H2",
+      "text": "Zajímavé odkazy a dokumenty"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "smart potravinarstvi",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/04/smart-1280x758.png"
+    },
+    {
+      "alt": "coufalik new - Smart potravinářství - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/coufalik_new.jpg"
+    },
+    {
+      "alt": "sustr new - Smart potravinářství - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/sustr_new.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/solutions-and-services/smart-food-industry/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/riesenia-a-sluzby/smart-potravinarstvo/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Úvod"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2022/10/CZ_Sabris_S2AP-for-Food_upraveno_2022.pdf",
+      "text": "Sabris řešení pro Smart potravinářskou společnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/mp-krasno/",
+      "text": "MP Krásno – komplexní systém pro optimalizaci a řízení procesů potravinářské firmy"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/#form",
+      "text": "Kontaktujte nás"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nSmart potravinářství\n\nDigitalizací potravinářské firmy získáte vyšší marži, kvalitu i bezpečnost\n\nÚvod 5 Řešení a služby 5 Smart potravinářství\nŘízení, optimalizace a automatizace procesů\n\nVe velkých potravinářských výrobních společnostech obvykle pracuje až 800 lidí.\n\nV plně automatizovaném závodu stejné velikosti pouze 200.\n\nV podstatě každý druhý párek v České republice je vyráběn a expedován závodem využívajícím Sabris řešení S2AP for Food.\n\nJan Coufalík\n\nCEO ze Sabris Solutions, SE\n\nSoučasné výzvy\n\nTvrdé konkurenční prostředí, kde rozhoduje každý halíř\n\nPredikce poptávky na základě pocitů a ne dat\n\nVětšina informačních systémů nepokrývá specifika potravinářské výroby\n\nNemožnost určit skutečné náklady na každý vyrobený kus, zaměstnance a logistiku\n\nRostoucí počet zákonných i zákaznických požadavků\n\nNepřesné plánování a řízení výroby bez detailních informací\n\nTlak na bezpečnost a dosledovatelnost potravin\n\nZávislost na dostupnosti lidských zdrojů\n\nHlavní přínosy\nMaximalizace marže detailní alokací firemních nákladů do výrobků\nDosažení nejvyšší možné efektivity ve výrobě a zhodnocení investice do výrobních zařízení\nZvládání rostoucího počtu zákonných i zákaznických požadavků na kvalitu potravin\nVyužití osvědčených postupů z moderního potravinářství\nZvyšování produkce a zkrácení návratnosti investic díky automatizaci výroby\nSnížení nákladů bezešvou integrací všech podnikových procesů\nVyužívání všech vašich zdrojů na maximum\nPružnější reakce na situaci na trhu a plánování na základě ověřených dat\nZajímavé odkazy a dokumenty\nSabris řešení pro Smart potravinářskou společnost\nMP Krásno – komplexní systém pro optimalizaci a řízení procesů potravinářské firmy\n\nUdělejte první krok a ozvěte se nám\n\nDomluvíme se na dalším postupu, který vám bude vyhovovat.\n\nKontaktujte nás\n\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Smart potravinářství - sabris.com",
+  "url": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/"
+}

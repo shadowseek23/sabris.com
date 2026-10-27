@@ -1,0 +1,311 @@
+{
+  "backgrounds": [
+    "linear-gradient(rgba(50, 46, 40, 0.75) 0%, rgba(50, 46, 40, 0.75) 100%), url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/Marvinpac_ico.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/03/challenge-mountain-2.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/list-icon.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/bg-quote-start.svg\"), url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/bg-quote-end.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/03/reference-tickmark-2.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Marvinpac"
+    },
+    {
+      "level": "H2",
+      "text": "Výzvy, se kterými se zákazník potýkal"
+    },
+    {
+      "level": "H2",
+      "text": "Poskytnutá řešení a služby"
+    },
+    {
+      "level": "H2",
+      "text": "Realizace"
+    },
+    {
+      "level": "H3",
+      "text": "Rychlé nasazení ERP systému"
+    },
+    {
+      "level": "H3",
+      "text": "Intenzivní spolupráce obou týmů"
+    },
+    {
+      "level": "H2",
+      "text": "Přínosy našeho řešení"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "MARVINPAC SMALL - Marvinpac - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/MARVINPAC-SMALL.svg"
+    },
+    {
+      "alt": "marvinpac 3 - Marvinpac - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/marvinpac_3.png"
+    },
+    {
+      "alt": "marvinpac 2 2 - Marvinpac - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/marvinpac_2_2.png"
+    },
+    {
+      "alt": "reference marvinpac thinking outside the box with SAP S 4HANA paper packaging 1 9 screenshot 2 - Marvinpac - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/03/reference-marvinpac-thinking-outside-the-box-with-SAP-S_4HANA-paper-packaging-1-9-screenshot-2.jpg"
+    },
+    {
+      "alt": "marvinpac 1 - Marvinpac - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/marvinpac_1.png"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/reference/marvinpac/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/marvinpac/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/marvinpac/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference-en/marvinpac/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/referencie/marvinpac/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Home"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/",
+      "text": "Reference"
+    },
+    {
+      "href": "https://www.marvinpac.com/cs/",
+      "text": ""
+    },
+    {
+      "href": "https://www.marvinpac.com/cs/",
+      "text": "www.marvinpac.com/cs"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nMarvinpac\n\nNasazení informačního systému SAP S/4HANA včetně financí a logistiky během 4 měsíců\n\nHome - Reference - Marvinpac\n\nMarvinpac patří mezi hlavní evropské hráče na poli zakázkových obalů. Díky nasazení moderního informačního systému SAP S/4HANA dokáže společnost bezprostředně reagovat na rostoucí požadavky zákazníků, flexibilně přizpůsobovat nabídku služeb a rozvíjet svůj business v mezinárodním měřítku.\n\nProjekt získal 3. místo v SAP CEE Quality Awards 2017 v kategorii „Rychlá implementace“\n\nPrvní implementace SAP S/4HANA v rekordním čase\n\nBěhem pouhých 4 měsíců jsme zákazníkovi pomohli nasadit informační systém SAP S/4HANA včetně financí a logistiky. Šlo o vůbec první nasazení tohoto systému v regionu CEE.\n\nPodívejte se na krátké video, jak SAP S/4HANA pomáhá Marvinpac v jejich každodenním businessu a podporuje jejich růst.\n\nVýzvy, se kterými se zákazník potýkal\n\nProblém zvládnout velmi rychlé zvýšení objemu a dodávek na mezinárodních trzích bez stabilní ERP platformy\n\nTurbulentní odvětví zakázkového balení vyžadující robustní nástroje pro lepší zákaznické služby a rozvoj inovací\n\nHrozící ztráta strategického obchodního partnera (nutnost posílení důvěryhodnosti nasazením stejné platformy)\n\nNákladná a zdlouhavá správa IT infrastruktury kvůli roztříštěným systémům od více dodavatelů (chyby a slepá místa v procesech)\n\nPoskytnutá řešení a služby\n\nSAP S/4HANA\n\nS/4.CZ by Sabris\n\nNasazení SAP\n\nHosting IT infrastruktury SAP\n\nRealizace\nRychlé nasazení ERP systému\n\nKvůli požadavku extrémně rychlé implementace ERP systému byl nejprve nasazen čistý standard SAP S/4HANA dle metodiky SAP Activate.\n\nNásledně vznikla GAP analýza, která pokračovala rozvojovou fází, kdy byly postupně nasazovány funkcionality a zákaznický vývoj dle skutečných potřeb společnosti Marvinpac.\n\nIntenzivní spolupráce obou týmů\n\nRychlá implementace systému vyžadovala intenzivní spolupráci a efektivní komunikaci týmů Sabris a Marvinpac. Bylo třeba opustit zažité postupy, a především změnit myšlení z dokumentového na procesní.\n\nVýznamnou pomocí byla silná podpora ze strany jednatele společnosti Marvinpac, Jana Vrátila.\n\nPři pořizování komplexního ERP systému pro řízení firmy je potřeba si uvědomit, že systém sám o sobě Vaše provozní a organizační problémy nevyřeší. S jeho nasazením je třeba vyvinout nemalé úsilí a změnit myšlení celé firmy.\n\nTeprve kombinací inovativní technologie, správného managementu a strategie se dá vytvořit optimální kombinace, která nám pomůže naplňovat cíle a posouvat hranice našeho růstu. Já věřím, že se nám to společně se Sabrisem podařilo, a že je na čem stavět.\n\nJan Vrátil\n\njednatel, Marvinpac CZ\n\nProvoz IT infrastruktury formou flexibilní služby\n\nPro společnost Marvinpac outsourcujeme provoz SAP S/4HANA v hostovaném prostředí privátního cloudu včetně bázové podpory a supportu.\n\nPodívejte se na krátké referenční video o využití této služby zákazníkem.\n\nPřínosy našeho řešení\n\nDíky rychlému nasazení SAP S/4HANA dokázal Marvinpac zvýšit produkci o 150 % oproti původnímu stavu, což byl jeden z hlavních cílů projektu.\n\nDíky SAP S/4HANA má Marvinpac robustní nástroj pro komplexní řízení financí, výroby i logistiky podporující rychlý růst firmy.\n\nDíky SAP S/4HANA Marvinpac posílil svou důvěryhodnost u strategických klientů a otevřel si cestu k dalším významným zakázkám a partnerům.\n\nDíky SAP S/4HANA dokáže Marvinpac reagovat na rostoucí požadavky zákazníků, flexibilně přizpůsobit nabídku služeb a rozvíjet svůj business v mezinárodním měřítku.\n\nO společnosti Marvinpac\n\n1999\nvznik mateřské společnosti\n230\npočet zaměstnanců\n2\nvýrobní střediska (Švýcarsko, ČR)\n20\nmil. zabalených výrobků ročně\n\nSkupina Marvinpac patří mezi hlavní evropské hráče na poli zakázkových obalů v odvětví potravin a cukrovinek, kosmetiky, pohostinství a luxusních doplňků (hodinek, koženého zboží, psacích potřeb atd.).\n\nSvým klientům nabízí širokou škálu zakázkových obalových řešení specifických nebo velkoobjemových projektů, která zahrnují výrobu exkluzivních kazet umocňující luxusní charakter výrobků.\n\nVíce na www.marvinpac.com/cs\n\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Marvinpac - sabris.com",
+  "url": "https://web-dev.sabris.com/reference/marvinpac/"
+}

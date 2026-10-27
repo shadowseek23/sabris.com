@@ -1,0 +1,384 @@
+{
+  "backgrounds": [
+    "linear-gradient(rgba(50, 46, 40, 0.6) 0%, rgba(50, 46, 40, 0.6) 100%), url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/header-pribehy-zakazniku.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/06/botanique6.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/05/Sabris-WEB-Continental_main2.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/05/sustainability-medium.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/08/Kreslici-platno-1-kopie-10-100.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/06/Kosik.cz-uvod_Sabris-web.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2020/03/Kosik.cz_pict2.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/Marvinpac_ico.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/05/13-vo%C5%88av%C3%A1-odv%C4%9B%C5%A1ovna-scaled.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/06/NKT_Sabris_2018-12-1-scaled.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "level": "H1",
+      "text": "Přehled referencí"
+    },
+    {
+      "level": "H2",
+      "text": "ARTHURINVEST"
+    },
+    {
+      "level": "H2",
+      "text": "Continental"
+    },
+    {
+      "level": "H2",
+      "text": "Heineken Slovensko"
+    },
+    {
+      "level": "H2",
+      "text": "Home Credit"
+    },
+    {
+      "level": "H2",
+      "text": "Košík.cz"
+    },
+    {
+      "level": "H2",
+      "text": "Košík.cz"
+    },
+    {
+      "level": "H2",
+      "text": "Marvinpac"
+    },
+    {
+      "level": "H2",
+      "text": "MP Krásno"
+    },
+    {
+      "level": "H2",
+      "text": "NKT"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "botanique botanique white - Příběhy zákazníků - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/botanique_botanique_white.svg"
+    },
+    {
+      "alt": "CONTINENTAL - Příběhy zákazníků - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/CONTINENTAL.svg"
+    },
+    {
+      "alt": "HEINEKEN - Příběhy zákazníků - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/HEINEKEN.svg"
+    },
+    {
+      "alt": "HC loga ribehy zakazniku homecredit white2 - Příběhy zákazníků - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/08/HC_loga_ribehy-zakazniku_homecredit_white2.svg"
+    },
+    {
+      "alt": "KOSIK white - Příběhy zákazníků - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/KOSIK_white.svg"
+    },
+    {
+      "alt": "KOSIK white - Příběhy zákazníků - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/KOSIK_white.svg"
+    },
+    {
+      "alt": "Kreslici platno 9 - Příběhy zákazníků - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/Kreslici-platno-9.svg"
+    },
+    {
+      "alt": "KRASNO 2 - Příběhy zákazníků - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/KRASNO-2.svg"
+    },
+    {
+      "alt": "NKT 1 - Příběhy zákazníků - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/NKT-1.svg"
+    },
+    {
+      "alt": "<",
+      "src": "https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/pagination-next.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/pribehy-zakazniku/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/customer-stories/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakaznikov/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Úvod"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/arthurinvest/",
+      "text": "ARTHURINVEST\n\t\t\t\t\tSabris pomohl ARTHURINVEST s implementací nového informačního systému v době, kdy zákazník stál před výzvou přechodu na vlastní značku hotelu a potřeboval velmi rychle nasadit nové účetní a provozní systémy a celkově optimalizovat vnitřní procesy."
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/continental/",
+      "text": "Continental\n\t\t\t\t\tPro nasazení SAP HCM ve skupině společností Continental v České republice byla vybrána společnost Sabris. Profesionální implementace, podpora i rozvoj řešen zákazníkovi dlouhodobě zajišťuje spolehlivost HR procesů."
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/heineken/",
+      "text": "Heineken Slovensko\n\t\t\t\t\tDíky nasazení řešení OpenText pro zpracování faktur a smluv, které je integrované do prostředí SAP, společnost HEINEKEN Slovensko zvýšila svou akceschopnost a současně snížila náklady na zpracování dokumentů."
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/home-credit/",
+      "text": "Home Credit\n\t\t\t\t\tDíky OpenText řešení bezpapírové personalistiky zvládá HR oddělení v Home Credit Vietnam tvorbu, tisk, distribuci, a archivaci pracovních smluv i dalších personálních dokumentů ze SAP doslova „na jedno tlačítko“."
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/kosik-cz/",
+      "text": "Košík.cz\n\t\t\t\t\tOd přijetí objednávky k předání zboží zákazníkovi uběhnou zhruba 3 hodiny. Za tu dobu proběhne několik desítek logistických operací. Celý proces podporuje systém SAP S/4HANA, aby Košík.cz odbavil veškeré objednávky ke spokojenosti zákazníků."
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/kosik-cz-2/",
+      "text": "Košík.cz\n\t\t\t\t\tKošík.cz za rok přijme a zpracuje přes 12 tisíc faktur od svých dodavatelů. Díky nasazení řešení pro automatické zpracování faktur v SAP došlo k výraznému snížení nákladů na zpracování těchto účetních dokladů. Dále se díky OCR snížila chybovost při vytěžování dat z faktur."
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/marvinpac/",
+      "text": "Marvinpac\n\t\t\t\t\tDíky modernímu informačnímu systému SAP S/4HANA dokáže společnost bezprostředně reagovat na rostoucí požadavky zákazníků, flexibilně přizpůsobovat nabídku služeb a rozvíjet svůj business v mezinárodním měřítku."
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/mp-krasno/",
+      "text": "MP Krásno\n\t\t\t\t\tDíky kombinaci SAP ERP systému a řešení S2AP for Food od Sabris řídí a kontroluje společnost MP Krásno všechny strategické podnikové procesy. To jí významně pomáhá v optimalizaci procesů, a tím i růstu zisku."
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/nkt/",
+      "text": "NKT\n\t\t\t\t\tDůkladnou analýzou HR procesů, poskytnutím outsourcingových služeb v oblasti personálně mzdové agendy a podpory SAP HCM jsme pomohli NKT vyřešit proces zpracování mezd bez jakýkoliv negativních dopadů pro více než 900 zaměstnanců nově akvírovaného závodu ve Švédsku."
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/page/2/",
+      "text": "2"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/page/2/",
+      "text": ""
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nPříběhy zákazníků\n\nInspirujte se zkušenostmi významných firem z různých odvětví\n\nÚvod 9 Příběhy zákazníků\n\nČeská zbrojovka a.s. – úspěšný přechod na SAP S/4HANA\n\nPředstavujeme vám příběh úspěšného přechodu rozsáhlého řešení SAP ECC se zákaznickým vývojem na novou platformu SAP S/4HANA. Projekt realizovaný ve spolupráci s konverzním týmem Sabris trval 12 měsíců.\n\nSAP S/4HANA – výkonné prostředí pro efektivní řízení rozvojové strategie\n\nInformační systém SAP S/4HANA provozovaný z Cloudu podporuje dynamický růst České zbrojovky a.s.\n\nUmožňuje jí zpracovávat a vyhodnocovat obrovská množství dat v čase a zavádět nejnovější technologická řešení v reakci na expanzi firmy.\n\nPřehled referencí\nOdvětví\nAutomobilový průmysl\nRetail a logistika\nPotravinářství a nápoje\nFinanční služby\nSlužby\nDalší\nZemě\nČesko\nSlovensko\nBulharsko\nNěmecko\nŠvédsko\nŠvýcarsko\nVietnam\nARTHURINVEST\nSabris pomohl ARTHURINVEST s implementací nového informačního systému v době, kdy zákazník stál před výzvou přechodu na vlastní značku hotelu a potřeboval velmi rychle nasadit nové účetní a provozní systémy a celkově optimalizovat vnitřní procesy.\nContinental\nPro nasazení SAP HCM ve skupině společností Continental v České republice byla vybrána společnost Sabris. Profesionální implementace, podpora i rozvoj řešen zákazníkovi dlouhodobě zajišťuje spolehlivost HR procesů.\nHeineken Slovensko\nDíky nasazení řešení OpenText pro zpracování faktur a smluv, které je integrované do prostředí SAP, společnost HEINEKEN Slovensko zvýšila svou akceschopnost a současně snížila náklady na zpracování dokumentů.\nHome Credit\nDíky OpenText řešení bezpapírové personalistiky zvládá HR oddělení v Home Credit Vietnam tvorbu, tisk, distribuci, a archivaci pracovních smluv i dalších personálních dokumentů ze SAP doslova „na jedno tlačítko“.\nKošík.cz\nOd přijetí objednávky k předání zboží zákazníkovi uběhnou zhruba 3 hodiny. Za tu dobu proběhne několik desítek logistických operací. Celý proces podporuje systém SAP S/4HANA, aby Košík.cz odbavil veškeré objednávky ke spokojenosti zákazníků.\nKošík.cz\nKošík.cz za rok přijme a zpracuje přes 12 tisíc faktur od svých dodavatelů. Díky nasazení řešení pro automatické zpracování faktur v SAP došlo k výraznému snížení nákladů na zpracování těchto účetních dokladů. Dále se díky OCR snížila chybovost při vytěžování dat z faktur.\nMarvinpac\nDíky modernímu informačnímu systému SAP S/4HANA dokáže společnost bezprostředně reagovat na rostoucí požadavky zákazníků, flexibilně přizpůsobovat nabídku služeb a rozvíjet svůj business v mezinárodním měřítku.\nMP Krásno\nDíky kombinaci SAP ERP systému a řešení S2AP for Food od Sabris řídí a kontroluje společnost MP Krásno všechny strategické podnikové procesy. To jí významně pomáhá v optimalizaci procesů, a tím i růstu zisku.\nNKT\nDůkladnou analýzou HR procesů, poskytnutím outsourcingových služeb v oblasti personálně mzdové agendy a podpory SAP HCM jsme pomohli NKT vyřešit proces zpracování mezd bez jakýkoliv negativních dopadů pro více než 900 zaměstnanců nově akvírovaného závodu ve Švédsku.\n12\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Příběhy zákazníků - sabris.com",
+  "url": "https://web-dev.sabris.com/pribehy-zakazniku/"
+}

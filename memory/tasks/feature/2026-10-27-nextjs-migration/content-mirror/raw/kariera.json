@@ -1,0 +1,322 @@
+{
+  "backgrounds": [
+    "linear-gradient(rgba(50, 46, 40, 0.5) 0%, rgba(50, 46, 40, 0.5) 100%), url(\"https://web-dev.sabris.com/wp-content/uploads/2021/06/iStock-1279633845-scaled.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/ul-tickmark.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/join-us-innovation-bg.jpg\")",
+    "linear-gradient(rgba(50, 46, 40, 0.5) 0%, rgba(50, 46, 40, 0.5) 100%), url(\"https://web-dev.sabris.com/wp-content/uploads/2021/05/MicrosoftTeams-image-2-1.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Přidej se k nám"
+    },
+    {
+      "level": "H2",
+      "text": "Staň se součástí našeho friendly professional týmu!"
+    },
+    {
+      "level": "H2",
+      "text": "Friendly firemní kultura"
+    },
+    {
+      "level": "H2",
+      "text": "Práce na inovativních projektech"
+    },
+    {
+      "level": "H2",
+      "text": "Jaké to je u nás pracovat?"
+    },
+    {
+      "level": "H2",
+      "text": "Čeho si Sabrisáci nejvíc cení? *"
+    },
+    {
+      "level": "H2",
+      "text": "Cesta k nám"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "join us team - Přidej se k nám - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/join-us-team.svg"
+    },
+    {
+      "alt": "join us gallery 1 - Přidej se k nám - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/join-us-gallery-1.jpg"
+    },
+    {
+      "alt": "join us gallery 2 - Přidej se k nám - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/join-us-gallery-2.jpg"
+    },
+    {
+      "alt": "join us gallery 3 - Přidej se k nám - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/join-us-gallery-3.jpg"
+    },
+    {
+      "alt": "join us office - Přidej se k nám - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/join-us-office.jpg"
+    },
+    {
+      "alt": "join us most valued 2 - Přidej se k nám - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/join-us-most-valued-2.svg"
+    },
+    {
+      "alt": "join us most valued 1 - Přidej se k nám - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/join-us-most-valued-1.svg"
+    },
+    {
+      "alt": "join us most valued 3 - Přidej se k nám - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/join-us-most-valued-3.svg"
+    },
+    {
+      "alt": "join us the way - Přidej se k nám - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/join-us-the-way.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/pridej-se-k-nam/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/work-with-us/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridaj-sa-k-nam/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Úvod"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontaktuj nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontaktuj nás"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nPřidej se k nám\n\nPokud jsi otevřená hlava a máš chuť být součástí inovativních projektů, rádi tě u nás přivítáme\n\nÚvod 5 Přidej se k nám\nStaň se součástí našeho friendly professional týmu!\n\nZajímavou a tvořivou práci najdeš leckde, ale partu fajn kolegů a mezinárodní firmu s lidskou tváří už tak snadno nepotkáš.\n\nAčkoliv je nás v Sabrisu poměrně dost, jsme tým lidí, kteří drží spolu a vzájemně se podporují.\n\nAktuálně nevypisiujeme žádné pozice, ale pokud jsme tě zaujali, klidně nás kontaktuj, rádi se seznámime\n\nKontaktuj nás\n\nFriendly firemní kultura\n\nKravatu u nás nepotřebuješ, vítáme schopné lidi s otevřenou hlavou, kteří mají chuť učit se novým věcem a posouvat své hranice.\n\nNajdeš mezi námi cyklisty, lyžaře, běžce, turisty, pejskaře, pivaře, whiskaře, kuchaře, hráče fotbálku, ping pongu a badmintonu, máme tu i železného muže a spoustu dalších zajímavých lidí.\n\npřátelské prostředí\nlidský přístup majitelů a manažerů\nneformální dress code\nsdílíme spolu nejen práci, ale i zážitky\n\nArchitektura řešení na SAP S/4HANA\n\nRobotizovaný závod z lega\n\nVánoční příběh o cloudovém řešení\n\nSpolupracujeme s předními světovými dodavateli informačních technologií.\n\nNabízíme inovativní řešení\nv souladu s nejnovějšími ICT trendy.\n\nPráce na inovativních projektech\nMáš jedinečnou příležitost pracovat s nejmodernějšími technologiemi SAP, OpenText a Microsoft.\nZaměřujeme se na digitalizaci, robotizaci, automatizaci, cloud a umělou inteligenci.\nČeká tě různorodá práce u zákazníků, kteří jsou špičkami v oboru.\nPokud jsi na juniorské pozici, dostaneš na zaškolení svého mentora.\nPoskytneme ti odborná školení i jazykové kurzy, získáš nové znalosti.\nJaké to je u nás pracovat?\n\nKanceláře si uzpůsobujeme tak, abychom se v nich cítili dobře.\n\nMáme možnost flexibilní pracovní doby a využíváme home office.\nPracujeme v příjemných kancelářích, žádný „open space“.\nV kuchyňkách máme k dispozici občerstvení, pořádáme vitamínové dny i další akce.\nČeho si Sabrisáci nejvíc cení? *\n\nPřátelské a rodinné atmosféry\n\nFlexibilní pracovní doby\n\nZajímavých a inovativních projektů\n\n*) vyplynulo ze zaměstnaneckého průzkumu 2020\n\nCesta k nám\nNa pozici reaguj zasláním strukturovaného životopisu a případně přilož i motivační dopis, který informace o tobě doplní.\nUchazeči s vyhovujícím profilem na některou z volných pozic budou pozváni na osobní pohovor, který obvykle probíhá v některé z našich poboček, výjimečně vzdáleně.\nMáme neformální dress code, tak neočekávej manažery v kravatách. Zvol si oblečení, ve kterém se cítíš dobře.\nNaše výběrové řízení je obvykle jedno až dvou kolové a probíhá formou klasického pohovoru, žádné Assessment centrum u nás nečekej.\n\nKontaktuj nás\n\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Přidej se k nám - sabris.com",
+  "url": "https://web-dev.sabris.com/pridej-se-k-nam/"
+}

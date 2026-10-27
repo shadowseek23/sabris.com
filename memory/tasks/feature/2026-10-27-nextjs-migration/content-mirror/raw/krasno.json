@@ -1,0 +1,343 @@
+{
+  "backgrounds": [
+    "linear-gradient(rgba(50, 46, 40, 0.75) 0%, rgba(50, 46, 40, 0.75) 100%), url(\"https://web-dev.sabris.com/wp-content/uploads/2021/05/13-vo%C5%88av%C3%A1-odv%C4%9B%C5%A1ovna-scaled.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/bg-quote-start.svg\"), url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/bg-quote-end.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/03/challenge-mountain-2.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/list-icon.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/03/reference-tickmark-2.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "MP Krásno"
+    },
+    {
+      "level": "H2",
+      "text": "Výzvy, se kterými se zákazník potýkal"
+    },
+    {
+      "level": "H2",
+      "text": "Poskytnutá řešení a služby"
+    },
+    {
+      "level": "H2",
+      "text": "Realizace"
+    },
+    {
+      "level": "H3",
+      "text": "Komplexní řešení pro růst i podporu automatizace"
+    },
+    {
+      "level": "H3",
+      "text": "Implementace řešení do 4 závodů"
+    },
+    {
+      "level": "H3",
+      "text": "Komplexní řízení, kontrola a bezchybný provoz všech závodů"
+    },
+    {
+      "level": "H3",
+      "text": "Zvládnutí zákonných i zákaznických požadavků na kvalitu potravin"
+    },
+    {
+      "level": "H3",
+      "text": "Řízení a vyhodnocování efektivity ve výrobě"
+    },
+    {
+      "level": "H2",
+      "text": "Přínosy našeho řešení"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "homepage reference krasno - MP Krásno - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/09/homepage-reference-krasno.png"
+    },
+    {
+      "alt": "pilcik new - MP Krásno - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/06/pilcik_new.png"
+    },
+    {
+      "alt": "stroj 2 - MP Krásno - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/stroj_2.png"
+    },
+    {
+      "alt": "parky 1 - MP Krásno - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/parky-1.png"
+    },
+    {
+      "alt": "vyroba 1 - MP Krásno - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/vyroba-1.png"
+    },
+    {
+      "alt": "klobasa 1 - MP Krásno - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/klobasa-1.png"
+    },
+    {
+      "alt": "stroj 1 - MP Krásno - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/stroj-1.png"
+    },
+    {
+      "alt": "Masny prumysl Krasno MPK",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/fabrika-sou%C4%8Dasnost-1.png"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/reference/mp-krasno/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/mp-krasno/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/mp-krasno/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference-en/mp-krasno/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/referencie/mp-krasno/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Home"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reference/",
+      "text": "Reference"
+    },
+    {
+      "href": "https://www.krasno.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/05/Masokombinat-Krasno-vsadil-na-automatizaci_-HN_iHNed.cz_.pdf",
+      "text": "Článek Masokombinát Krásno vsadil na automatizaci – HN"
+    },
+    {
+      "href": "https://web-dev.sabris.com/wp-content/uploads/2021/05/Automatizace-v-potravin%C3%A1%C5%99stv%C3%AD_KRASNO_prosinec_2019_web.pdf",
+      "text": "Rozhovor s majitelem MP Krásno o automatizaci"
+    },
+    {
+      "href": "https://www.krasno.cz/",
+      "text": "www.krasno.cz"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nMP Krásno\n\nKomplexní informační systém pro optimalizaci a řízení firemních procesů\n\nHome - Reference - MP Krásno\n\nMP Krásno, tradiční výrobce uzenin a masných výrobků z Valašska, patří mezi největší zpracovatele masa v ČR.\nDíky kombinaci SAP ERP systému a řešení S2AP for Food od Sabris řídí a kontroluje všechny strategické podnikové procesy. To MP Krásno významně pomáhá v optimalizaci procesů, a tím i růstu zisku.\n\nSAP řešení od Sabris nám výrazně pomohlo k optimalizaci a automatizaci některých činností, propojením aplikací a zpracováním velkého množství dat. Nyní můžeme konstatovat, že i díky němu známe přesnou nákladovou cenu každého výrobku. Proces plánování nám pomohl v optimalizaci kapacit výrobních zařízení a efektivním plánování směn, což nám výrazně snižuje výrobní náklady.\n\nKarel Pilčík\n\nmajitel MP Krásno\n\nVýzvy, se kterými se zákazník potýkal\n\nVysoce konkurenční prostředí zpracovatelů masa s nízkými maržemi\n\nNepřesné plánování a chybějící informace o nákladech na jednotlivé výrobky\n\nChybějící informace pro kvalifikovaná rozhodnutí a komplexní řízení firmy vedoucí ke zvýšení obratu a zisku\n\nVýroba závislá na zastaralém informačním systému (chyby a slepá místa v procesech)\n\nNemožnost rychle a pružně reagovat na neustále se měnící požadavky zákazníků\n\nNákladná správa IT infrastruktury (roztříštěnost systémů od více dodavatelů)\n\nPoskytnutá řešení a služby\n\nSAP ERP\n\nS2AP for Food\n\nNasazení SAP\n\nRealizace\nKomplexní řešení pro růst i podporu automatizace\n\nSpolečnost MP Krásno podniká ve velmi konkurenčním prostředí s nízkými maržemi. Potřebovala nasadit řešení, které jí v tak náročném prostředí zajistí růst obratu i zisku. Firemní strategie je navíc postavena na zvyšování míry automatizace výrobních, logistických i administrativních činností. V souladu s tím se vedení rozhodlo zavést robustní IT řešení na platformě SAP s podporou automatizace procesů.\n\nImplementace řešení do 4 závodů\n\nMP Krásno má hlavní výrobní závod ve Valašském Meziříčí a další závod na výrobu trvanlivých a fermentovaných salámů v Ostravě. Součástí projektu nasazení SAP ERP byly tyto dva závody a dále také závod společnosti Řeznictví H+H, s.r.o. v Hladkých Životicích a závod Krásno Slovakia, s.r.o., zajišťující odbyt výrobků MP Krásno na slovenském a maďarském trhu.\n\nKomplexní řízení, kontrola a bezchybný provoz všech závodů\n\nImplementace řešení pokrývala detailní plánování, řízení a kontrolu všech procesů spojených se zpracováním masa, včetně podpory automatizace a napojení robotických výrobních linek i automatizovaných skladů. MP Krásno tak v jediném systému spravuje všechny klíčové informace.\n\nZvládnutí zákonných i zákaznických požadavků na kvalitu potravin\n\nDalší přidanou hodnotou implementovaného řešení od Sabris je zajištění bezpečnosti potravin, řízení doby trvanlivosti v odbytu a expedici, sledování původu suroviny, podpora auditů HACCP, IFS, BRC, GMP a další.\n\nŘízení a vyhodnocování efektivity ve výrobě\n\nV rámci řešení byly nasazeny nástroje pro řízení produktivity výroby a její vyhodnocování včetně nástrojů OEE, které byly ještě dále rozšířeny.\nDíky tomu dokáže MP Krásno lépe plánovat své kapacity a má k dispozici přesné informace o alokaci nákladů do jednotlivých výrobků.\n\nPřínosy našeho řešení\n\nSpolečnost MP Krásno řídí finance, výrobu i logistiku v jednom centrálním systému, což jí významně napomáhá k zvyšování obratu i zisku.\n\nDíky řízení jakosti dokáže MP Krásno snadno a rychle reagovat na rostoucí požadavky zákazníků i legislativu k zajištění kvality a bezpečnosti potravin.\n\nDíky komplexnímu procesu plánování MP Krásno optimálně využívá jak kapacity výrobních zařízení, tak i efektivně plánuje pracovníky na směny, což jim výrazně snižuje výrobní náklady.\n\nDokumenty a odkazy\n\nČlánek Masokombinát Krásno vsadil na automatizaci – HN\n\nRozhovor s majitelem MP Krásno o automatizaci\n\nO společnosti MP Krásno\n\nMP Krásno, tradiční výrobce uzenin a masných výrobků z Valašska, patří do pěti největších českých výrobců masa a uzenin. Jde o rodinnou firmu již šesté generace řeznických mistrů Pilčíků, které se díky obrovskému nasazení podařilo z Krásna vybudovat podnik, který symbolizuje spojení řeznické tradice, valašského kumštu a moderních technologií.\n\nHlavním lákadlem sortimentu jsou tradiční valašské speciality. Lze je nalézt u řady obchodních řetězců a maloobchodních sítí, stejně jako na pultech specializovaných řeznictví.\n\nVíce na www.krasno.cz\n\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "MP Krásno - sabris.com",
+  "url": "https://web-dev.sabris.com/reference/mp-krasno/"
+}

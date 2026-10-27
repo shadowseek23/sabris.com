@@ -1,0 +1,310 @@
+{
+  "backgrounds": [
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/11/vodni_onas.png\")",
+    "linear-gradient(rgba(47, 42, 36, 0.35) 0%, rgba(47, 42, 36, 0.35) 100%), url(\"https://web-dev.sabris.com/wp-content/uploads/2021/11/vodni_onas3.png\")",
+    "url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/bg-quote-start.svg\"), url(\"https://web-dev.sabris.com/wp-content/themes/DiviSabrisChild/bg-quote-end.svg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/uploads/2021/01/about-us-about-us-bg.jpg\")",
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "O nás"
+    },
+    {
+      "level": "H2",
+      "text": "Naše hodnoty"
+    },
+    {
+      "level": "H2",
+      "text": "O nás"
+    },
+    {
+      "level": "H2",
+      "text": "Sabris v číslech"
+    },
+    {
+      "level": "H2",
+      "text": "Naše okolí nám není lhostejné"
+    },
+    {
+      "level": "H3",
+      "text": "Jsme společensky odpovědní"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "o nas otevrenost a duvera - O nás - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/o-nas-otevrenost-a-duvera.jpg"
+    },
+    {
+      "alt": "about us our values 2 - O nás - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/about-us-our-values-2.jpg"
+    },
+    {
+      "alt": "about us our values 3 - O nás - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/about-us-our-values-3.jpg"
+    },
+    {
+      "alt": "about us our values 4 - O nás - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/01/about-us-our-values-4.jpg"
+    },
+    {
+      "alt": "Friendly professional",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/02/friendly-professional.svg"
+    },
+    {
+      "alt": "vladimir 1 - O nás - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/vladimir-1.png"
+    },
+    {
+      "alt": "odpovednost - O nás - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/05/odpovednost.png"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/o-sabris/o-nas/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/about-sabris-2/about-us/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Úvod"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Více o našich aktivitách"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nO nás\n\nJsme inovativní IT firma\ns friendly professional přístupem\n\nÚvod 5 O Sabris 5 O nás\nNaše hodnoty\n\nOtevřenost a důvěra\n\nJsme prozákaznicky orientovaná společnost, náš přístup je založený na otevřené komunikaci a vzájemné důvěře.\n\nNáskok díky inovacím\n\nPro zákazníky volíme nejlepší řešení v souladu s jejich cíli a moderními technologickými trendy v daném odvětví.\n\nSpolehlivost a profesionalita\n\nZa svou prací i našimi zákazníky si stojíme, a to nejen během implementace, ale i po dokončení projektu.\n\nDlouhodobé partnerství\n\nCelé řešení dlouhodobě podporujeme a rozvíjíme dle business potřeb zákazníků, aby mohli soustavně růst.\n\nProvedeme vás složitými výzvami v oblasti IT a dodáme vám řešení s vysokou přidanou hodnotou.\n\nVladimír Sýkora\n\nMajitel Sabris Holding, SE\n\nO nás\n\nV regionu střední a východní Evropy poskytujeme služby systémového integrátora a služby dlouhodobého charakteru prostřednictvím vícejazyčného support centra a centra sdílených služeb.\n\nOrientujeme se na odborné poradenství, business řešení a služby, které společnostem přinášejí významnou přidanou hodnotu, zvyšují jejich výkonnost a prosperitu.\n\nNa projektech využíváme jak Best practices, tak naše odborné znalosti odvětví, nasbírané během dlouholeté spolupráce s našimi zákazníky.\n\nTento přístup nám pomáhá porozumět individuálním potřebám společností a nabízet jim inovativní řešení v souladu s nejnovějšími ICT trendy a technologickým rozvojem v daném oboru.\n\nJsme dlouhodobě stabilní společností, chceme být spolehlivým partnerem a zvyšovat náš tržní podíl. Z toho důvodu neustále rozvíjíme naše portfolio, soustředíme se na zlepšování kvality dodávaných služeb a rozšiřování stávajících trhů.\n\nSabris v číslech\n\n1994\n\nNa trhu informačních a komunikačních technologií působíme již přes 25 let.\n\n>200\n\nV regionu střední a východní Evropy máme více než 200 zákazníků.\n\n4\n\nMáme zastoupení v Praze, Brně, Olomouci a Bratislavě.\n\n250\n\nV rámci celé skupiny Sabris máme téměř 250 zaměstnanců.\n\n3\n\nJsme certifikovaným partnerem společností SAP, OpenText a Microsoft.\n\n100 %\n\nPoskytujeme kompletní portfolio služeb systémové integrace.\n\nNaše okolí nám není lhostejné\nJsme společensky odpovědní\n\nUplatňujeme etický a odpovědný přístup v našem podnikání, ale i ve vztahu ke společnosti, bezprostřednímu okolí a životnímu prostředí.\n\nDlouhodobě se snažíme podporovat prospěšné věci v našem okolí.\n\nVíce o našich aktivitách\n\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "O nás - sabris.com",
+  "url": "https://web-dev.sabris.com/o-sabris/o-nas/"
+}

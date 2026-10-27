@@ -1,0 +1,310 @@
+{
+  "backgrounds": [
+    "url(\"https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/images/td_back.gif\")"
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Certifikáty"
+    },
+    {
+      "level": "H2",
+      "text": "ISO certifikace"
+    },
+    {
+      "level": "H3",
+      "text": "Certifikát ISO 9001:2015 pro systém řízení kvality"
+    },
+    {
+      "level": "H3",
+      "text": "Certifikát ISO 27001:2013 pro systém řízení bezpečnosti informací (ISMS)"
+    },
+    {
+      "level": "H2",
+      "text": "SAP certifikace"
+    },
+    {
+      "level": "H3",
+      "text": "Certifikát SAP Partner Center of Expertise"
+    },
+    {
+      "level": "H3",
+      "text": "Certifikát „Konverze na novou generaci SAP S/4HANA“"
+    },
+    {
+      "level": "H3",
+      "text": "Certifikace řešení S/4.CZ by Sabrispro SAP S/4HANA"
+    },
+    {
+      "level": "H3",
+      "text": "Certifikace řešení S2AP for Food pro SAP S/4HANA"
+    },
+    {
+      "level": "H4",
+      "text": "Ochrana osobních údajů"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/11/logo_sabris_simple.png"
+    },
+    {
+      "alt": "9001 cze grn 1 - Certifikáty - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/03/9001_cze_grn-1.png"
+    },
+    {
+      "alt": "27001 cze grn 1 - Certifikáty - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/03/27001_cze_grn-1.png"
+    },
+    {
+      "alt": "SAP Certified PartnerCenter of Expertise R 1 - Certifikáty - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/03/SAP_Certified_PartnerCenter_of_Expertise_R-1.png"
+    },
+    {
+      "alt": "Sabris logo s4 hana - Certifikáty - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/03/Sabris_logo_s4_hana.png"
+    },
+    {
+      "alt": "Logo SAP Qualified PartnerPackageSolution S4 - Certifikáty - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/03/Logo_SAP_Qualified_PartnerPackageSolution_S4.png"
+    },
+    {
+      "alt": "SAP Certi IntegrationwithSAPHANA R 1 - Certifikáty - sabris.com",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2021/03/SAP_Certi_IntegrationwithSAPHANA_R-1.png"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-sabris.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/wp-content/uploads/2020/10/footer-icon-linkedin.svg"
+    },
+    {
+      "alt": "CookieYes Logo",
+      "src": "https://web-dev.sabris.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://web-dev.sabris.com/o-sabris/certifikaty/"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/#",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/o-nas/",
+      "text": "O nás"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/media/",
+      "text": "Média"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/nasi-partneri/",
+      "text": "Naši partneři"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/",
+      "text": "Certifikáty"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/oceneni/",
+      "text": "Ocenění"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/spolecenska-odpovednost/",
+      "text": "Společenská odpovědnost"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/",
+      "text": "Řešení a služby"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/inovace-sap/",
+      "text": "Inovace na SAP"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/firemni-analytika/",
+      "text": "Firemní analytika"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/smart-potravinarstvi/",
+      "text": "Smart potravinářství"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/digitalni-firma/",
+      "text": "Digitální firma"
+    },
+    {
+      "href": "https://web-dev.sabris.com/reseni-a-sluzby/podpora-aplikaci/",
+      "text": "Podpora aplikací"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pribehy-zakazniku/",
+      "text": "Příběhy zákazníků"
+    },
+    {
+      "href": "https://web-dev.sabris.com/pridej-se-k-nam/",
+      "text": "Přidej se k nám"
+    },
+    {
+      "href": "https://web-dev.sabris.com/kontakt/",
+      "text": "Kontakt"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "ČeštinaCS"
+    },
+    {
+      "href": "https://web-dev.sabris.com/about-sabris-2/certificates/?lang=en",
+      "text": "English"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/certifikaty/?lang=sk",
+      "text": "Slovenčina"
+    },
+    {
+      "href": "https://web-dev.sabris.com/",
+      "text": "Úvod"
+    },
+    {
+      "href": "https://web-dev.sabris.com/o-sabris/",
+      "text": "O Sabris"
+    },
+    {
+      "href": "https://www.sabris.cz/",
+      "text": ""
+    },
+    {
+      "href": "https://cz.linkedin.com/company/sabris",
+      "text": ""
+    },
+    {
+      "href": "https://web-dev.sabris.com/zasady-ochrany-osobnich-udaju/",
+      "text": "Ochrana soukromí"
+    },
+    {
+      "href": "",
+      "text": "Nastavení"
+    },
+    {
+      "href": "",
+      "text": "Přijmout vše"
+    },
+    {
+      "href": "",
+      "text": "Odmítnout vše"
+    },
+    {
+      "href": "",
+      "text": ""
+    },
+    {
+      "href": "",
+      "text": "Nezbytné"
+    },
+    {
+      "href": "",
+      "text": "Funkční"
+    },
+    {
+      "href": "",
+      "text": "Výkonostní"
+    },
+    {
+      "href": "",
+      "text": "Analytické"
+    },
+    {
+      "href": "",
+      "text": "Reklamní"
+    },
+    {
+      "href": "",
+      "text": "Ostatní"
+    },
+    {
+      "href": "",
+      "text": "ULOŽIT A PŘIJMOUT"
+    },
+    {
+      "href": "https://www.cookieyes.com/",
+      "text": ""
+    }
+  ],
+  "text": "O Sabris\nŘešení a služby\nPříběhy zákazníků\nPřidej se k nám\nKontakt\nČeština\nCertifikáty\n\nNaše certifikáty jsou pro vás zárukou spolehlivých dodávek a kvalitních řešení\n\nÚvod 5 O Sabris 5 Certifikáty\nISO certifikace\nCertifikát ISO 9001:2015 pro systém řízení kvality\n\nMáme zavedený systém řízení kvality pro oblast dodávek a implementací informačních technologií a systémů, včetně souvisejících služeb, strategického poradenství a systémové integrace, který odpovídá normě ISO 9001:2015.\n\n \n\nCertifikát ISO 27001:2013 pro systém řízení bezpečnosti informací (ISMS)\n\nDíky ISMS jsou u nás zavedeny mezinárodně prověřené standardy pro zabezpečení všech důležitých aktiv, tj. citlivých informací, klíčového hardware a software, know-how a prostor.\n\nTato certifikace je pro naše zákazníky a obchodní partnery potvrzením vysoké úrovně zabezpečení námi zpracovávaných a uchovávaných informací.\n\n \n\nSAP certifikace\nCertifikát SAP Partner Center of Expertise\n\nCertifikát potvrzuje, že svým zákazníkům poskytujeme podporu SAP produktů v souladu s platnými technickými a organizačními standardy SAP.\n\n \n\nCertifikát „Konverze na novou generaci SAP S/4HANA“\n\nJako první z partnerů SAP v regionu CEE jsme úspěšně absolvovali specializované školení zaměřené na konverzi systému SAP ERP na zcela novou generaci systému SAP S/4HANA.\n\n \n\nCertifikace řešení S/4.CZ by Sabris\npro SAP S/4HANA\n\nNámi vyvinuté řešení S/4.CZ je certifikované společností SAP jako „SAP-qualified partner-packaged solution for SAP S/4HANA“.\n\n \n\nCertifikace řešení S2AP for Food pro SAP S/4HANA\n\nNámi vyvinuté řešení SAP for Food je certifikované společností SAP jako integrované řešení pro SAP S/4HANA.\n\n \n\n\n\n\nOchrana soukromí | Všechna práva vyhrazena © 2026 Sabris",
+  "title": "Certifikáty - sabris.com",
+  "url": "https://web-dev.sabris.com/o-sabris/certifikaty/"
+}
