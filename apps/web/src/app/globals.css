@@ -223,8 +223,9 @@ input:focus-visible,
   justify-content: space-between;
   gap: 45px;
 }
-.brand {
-  width: 170px;
+.site-header .brand {
+  width: 154px;
+  max-height: 40px;
   height: auto;
   display: block;
 }
@@ -369,33 +370,35 @@ input:focus-visible,
 }
 .solutions-section {
   padding: 72px 0 82px;
+  background: #f5f5f5;
+}
+.solutions-section > .container {
+  width: min(1400px, calc(100% - 64px));
+  max-width: 1400px;
 }
 .solutions-desktop {
   display: grid;
-  grid-template-columns: 330px 1fr;
-  min-height: 445px;
+  grid-template-columns: clamp(280px, 27.143%, 380px) 1fr;
+  min-height: 489px;
   border-radius: 5px;
   overflow: hidden;
-  box-shadow: 0 3px 0 #00405325;
 }
 .solution-tabs {
   display: flex;
   flex-direction: column;
   background: #fff;
-  border: 1px solid #ebeeee;
 }
 .solution-tabs button {
   flex: 1;
   display: flex;
   align-items: center;
   text-align: left;
-  gap: 20px;
-  padding: 23px 22px;
+  gap: 0;
+  padding: 25px 30px 25px 0;
   background: #fff;
   border: 0;
-  border-bottom: 1px solid #ededed;
   color: var(--teal);
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 300;
   text-transform: uppercase;
   position: relative;
@@ -403,51 +406,94 @@ input:focus-visible,
 .solution-tabs button:last-child {
   border-bottom: 0;
 }
-.solution-tabs button[aria-selected="true"] {
-  font-weight: 600;
-  background: #fafafa;
-}
-.solution-tabs button[aria-selected="true"]:after {
+.solution-tabs button:not(:last-child)::after {
   content: "";
   position: absolute;
-  inset: 0 auto 0 0;
-  width: 3px;
+  bottom: 0;
+  left: 33px;
+  right: 33px;
+  height: 1px;
+  background: #f0f0f0;
+}
+.solution-tabs button[aria-selected="true"] {
+  font-weight: 600;
   background: var(--orange);
 }
-.solution-tabs button > svg {
-  margin-left: auto;
-  flex: none;
-  color: #a66a12;
+.solution-tabs button[aria-selected="true"]:after {
+  display: none;
 }
 .solution-tabs img {
   flex: none;
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-inline: 20px;
 }
 .solution-panel {
-  background-position: center;
-  background-size: cover;
-  min-height: 445px;
-  padding: 38px 42px;
+  background-color: var(--teal);
+  background-position: right bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+  min-height: 489px;
+  padding: 34px 40px 40px;
   color: #fff;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-  animation: soft-in 0.45s ease both;
 }
 .solution-panel h3 {
   color: #fff;
-  font-size: 28px;
-  font-weight: 300;
-  max-width: 380px;
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+.solution-copy {
+  max-width: 50%;
+  margin-top: 40px;
+  margin-bottom: 100px;
 }
 .solution-panel p {
-  max-width: 365px;
-  font-size: 15px;
-  line-height: 1.9;
-  margin-top: 16px;
-  margin-bottom: 35px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-bottom: 16px;
 }
-.solution-panel .button-link {
+.solution-button {
+  position: relative;
   margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 132px;
+  min-height: 44px;
+  padding: 7px 48px;
+  border: 2px solid var(--orange);
+  border-radius: 4px;
+  color: var(--orange);
+  font-weight: 600;
+  line-height: 1.5;
+  transition:
+    background-color 0.3s,
+    padding 0.3s;
+}
+.solution-button svg {
+  position: absolute;
+  right: 24px;
+  opacity: 0;
+  transform: translateX(-8px);
+  transition:
+    opacity 0.3s,
+    transform 0.3s;
+}
+.solution-button:hover {
+  padding-right: 64px;
+  padding-left: 32px;
+  background: #fbaa3633;
+  color: var(--orange);
+}
+.solution-button:hover svg {
+  opacity: 1;
+  transform: translateX(0);
 }
 .solutions-mobile {
   display: none;
@@ -1286,6 +1332,11 @@ input:focus-visible,
     bottom: 65px;
   }
 }
+@media (max-width: 1160px) {
+  .site-header .brand {
+    width: 120px;
+  }
+}
 @media (max-width: 1100px) {
   .header-inner {
     gap: 25px;
@@ -1294,9 +1345,6 @@ input:focus-visible,
   .site-header nav {
     gap: 17px;
     font-size: 12px;
-  }
-  .brand {
-    width: 145px;
   }
   .nav-language {
     margin-left: 0;
@@ -1314,14 +1362,8 @@ input:focus-visible,
   .hero-promise {
     bottom: 40px;
   }
-  .solutions-desktop {
-    grid-template-columns: 280px 1fr;
-  }
   .solution-panel {
     padding: 30px;
-  }
-  .solution-panel p {
-    max-width: 330px;
   }
   .about-teaser {
     gap: 45px;
@@ -1343,6 +1385,32 @@ input:focus-visible,
     padding: 24px;
   }
 }
+@media (max-width: 980px) {
+  .solutions-desktop {
+    display: none;
+  }
+  .solutions-mobile {
+    display: grid;
+    gap: 15px;
+  }
+  .solutions-mobile > a {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+    padding: 21px 22px;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 0 3px 0 #00405340;
+    border: 1px solid #eef0ef;
+    color: var(--teal);
+    text-transform: uppercase;
+    font-size: 14px;
+  }
+  .solutions-mobile > a > svg {
+    margin-left: auto;
+    color: #ae6c08;
+  }
+}
 @media (max-width: 900px) {
   .site-header {
     height: 72px;
@@ -1352,9 +1420,6 @@ input:focus-visible,
   }
   .header-inner {
     width: calc(100% - 40px);
-  }
-  .brand {
-    width: 145px;
   }
   .site-header nav {
     display: none;
@@ -1487,6 +1552,9 @@ input:focus-visible,
   .solutions-section {
     padding: 50px 0;
   }
+  .solutions-section > .container {
+    width: calc(100% - 40px);
+  }
   .section-heading {
     margin-bottom: 30px;
   }
@@ -1495,30 +1563,6 @@ input:focus-visible,
   }
   .section-heading .eyebrow {
     font-size: 10px;
-  }
-  .solutions-desktop {
-    display: none;
-  }
-  .solutions-mobile {
-    display: grid;
-    gap: 15px;
-  }
-  .solutions-mobile > a {
-    display: flex;
-    align-items: center;
-    gap: 22px;
-    padding: 21px 22px;
-    border-radius: 5px;
-    background: #fff;
-    box-shadow: 0 3px 0 #00405340;
-    border: 1px solid #eef0ef;
-    color: var(--teal);
-    text-transform: uppercase;
-    font-size: 14px;
-  }
-  .solutions-mobile > a > svg {
-    margin-left: auto;
-    color: #ae6c08;
   }
   .customers-section {
     padding: 45px 0;

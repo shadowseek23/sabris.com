@@ -1,5 +1,11 @@
 # Chyby a prevence
 
+## 2026-10-27 – Věrnost panelu služeb
+
+- Problém: první převod použil pro ilustrace služeb `cover`, vlastní aktivní záložku a odlišné tlačítko. Neodpovídal zdrojovému panelu.
+- Náprava: převzaty rozměry a pravidla ze zdrojového CSS: oranžová záložka, ilustrace `contain` vpravo dole, svislý gradient, obrysové tlačítko a přepnutí při hoveru. Logo respektuje zdrojové maximum 40 px a menší šířku 120 px pod 1160 px.
+- Prevence: u převodu interaktivních bloků ověřit i computed/source styly a jednotlivé stavy; shoda použitých obrázků sama nestačí.
+
 ## 2026-10-27 – Rozsah automatického formátování
 
 - Problém: první běh kořenového formátování zasáhl i převzaté konfigurační soubory a mohl by upravit původní HTML evidence.

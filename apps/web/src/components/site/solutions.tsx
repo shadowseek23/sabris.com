@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useRef, useState } from "react";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, ChevronsRight } from "lucide-react";
 import { services, media } from "@/data/content";
 
 export function Solutions() {
@@ -35,6 +35,7 @@ export function Solutions() {
                 aria-controls={`panel-${s.slug}`}
                 aria-selected={i === active}
                 tabIndex={i === active ? 0 : -1}
+                onMouseEnter={() => setActive(i)}
                 onClick={() => setActive(i)}
                 onKeyDown={(e) => {
                   let next = i;
@@ -52,7 +53,6 @@ export function Solutions() {
               >
                 <Image src={media(s.icon)} width={55} height={55} alt="" />
                 <span>{s.label}</span>
-                <ArrowRight size={18} />
               </button>
             ))}
           </div>
@@ -63,13 +63,17 @@ export function Solutions() {
             id={`panel-${service.slug}`}
             aria-labelledby={`tab-${service.slug}`}
             style={{
-              backgroundImage: `linear-gradient(90deg,rgba(0,48,61,.78),rgba(0,48,61,.08)),url('${media(service.image)}')`,
+              backgroundImage: `url('${media(service.image)}'),linear-gradient(180deg,transparent,rgba(0,0,0,.3))`,
             }}
           >
             <h3>{service.title}</h3>
-            <p>{service.text}</p>
-            <Link className="button-link button-light" href={`/reseni-a-sluzby/${service.slug}/`}>
-              Více o řešení <ArrowRight size={19} />
+            <div className="solution-copy">
+              <p>{service.subtitle}</p>
+              <p>{service.text}</p>
+            </div>
+            <Link className="solution-button" href={`/reseni-a-sluzby/${service.slug}/`}>
+              Více<span className="sr-only"> o řešení {service.label}</span>
+              <ChevronsRight size={23} aria-hidden="true" />
             </Link>
           </div>
         </div>
