@@ -6,12 +6,12 @@ Projekt vznikl zakládacím skriptem `nextjs-sanity-template` se zachováním Gi
 
 Původní média jsou lokální s manifestem zdrojů a SHA-256. Open Sans je self-hosted přes `next/font/local`. Fotografie používají `next/image`, vrstvená pozadí CSS.
 
-Carousel reprodukuje ruční cyklický posun pomocí krajních klonů. Vedlejší snímky jsou inertní, aktivní stav oznamuje aria-live. Přidána klávesnice a dotyk; vypnutý autoplay zůstává vypnutý. Reduced motion omezuje přechody.
+Archivovaný původní carousel reprodukuje ruční cyklický posun pomocí krajních klonů. Vedlejší snímky jsou inertní, aktivní stav oznamuje aria-live; autoplay je vypnutý.
 
 Sanity Studio je nepřipojený scaffold. Veřejný web nevyžaduje účet, dataset ani token. Zapojení CMS je samostatný navazující krok.
 
 Sitemap a robots jsou nativní. Metadata/canonical používají cílovou doménu www.sabris.com. Staré služby a partneři mají konkrétní přesměrování.
 
-## Samostatné designové varianty
+## Design a archiv varianty
 
-Root layout sdílí fonty a metadata. Původní stránky jsou beze změny obsahu v route group `(classic)` s vlastním layoutem. Minimalistická alternativa pod `/minimal/` má oddělený layout, CSS Module a 16 staticky generovaných adres. Sdílí obsah i média; vlastní klientské komponenty obsluhují menu a filtr referencí. Viz [návrh varianty](minimal-variant.md) a [ADR-0002](../../memory/decisions/ADR-0002-design-variants.md).
+Root layout sdílí fonty a metadata. Moderní varianta v route group `(modern)` má vlastní layout, CSS Module a 16 staticky generovaných čistých adres. Dřívější adresy `/minimal/` dočasně přesměrovávají na jejich protějšky. Původní stránky jsou mimo routovací strom v `archive/classic/`; celý původní stav je zálohovaný. Viz [návrh varianty](minimal-variant.md), [rozhodnutí o adresách](../../memory/decisions/ADR-0003-modern-site-root.md) a [obnova](../runbook.md).

@@ -9,7 +9,7 @@ export default function MinimalNotFound() {
         description="Stránka neexistuje nebo už není součástí aktuální nabídky."
       />
       <div className={`${styles.wrap} ${styles.sectionSmall}`}>
-        <MinimalButton href="/minimal/">Zpět na úvod</MinimalButton>
+        <MinimalButton href="/">Zpět na úvod</MinimalButton>
       </div>
     </>
   );

@@ -1,6 +1,6 @@
 # ADR-0002: Oddělené designové varianty se sdíleným obsahem
 
-Datum: 2026-10-27 · Status: Accepted
+Datum: 2026-10-27 · Status: Superseded by ADR-0003 v části o veřejných adresách variant
 
 ## Kontext
 

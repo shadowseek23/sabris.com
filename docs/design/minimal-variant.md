@@ -1,6 +1,6 @@
 # Minimalistická varianta
 
-Samostatná česká varianta na `/minimal/` má vlastní navigaci, homepage, všech 15 podstránek a patičku. Původní varianta zůstává na původních adresách.
+Moderní český web má vlastní navigaci, homepage, všech 15 podstránek a patičku na čistých adresách. Původní varianta je skrytá a zálohovaná; dřívější adresy `/minimal/` přesměrovávají na odpovídající stránky.
 
 ## Vizuální směr
 
@@ -13,12 +13,12 @@ Identitu Sabris drží původní logo, tyrkysová s oranžovou, autentické foto
 ## Oddělení variant
 
 - Root layout obsahuje fonty, metadata a odkaz pro přeskočení navigace.
-- `(classic)/layout.tsx` obaluje původní stránky; přesun nemění jejich adresy ani obsah.
-- `minimal/layout.tsx` obaluje alternativu samostatným CSS Modulem.
-- `minimal/[[...slug]]/page.tsx` staticky generuje všech 16 alternativních adres.
+- Původní routy jsou v `archive/classic/` mimo aktivní routovací strom a celý stav je ve verzi `backup/classic-2026-10-27`.
+- `(modern)/layout.tsx` obaluje web samostatným CSS Modulem.
+- `(modern)/[[...slug]]/page.tsx` staticky generuje všech 16 čistých adres.
 - Sdílená obsahová data jsou v `src/data/content.ts`; nová varianta nemá vlastní kopii referencí nebo služeb.
-- Odkazy uvnitř alternativy směřují do `/minimal/`. Patička umožňuje přejít na původní variantu.
-- Alternativa má `noindex, nofollow` a canonical k odpovídající původní adrese. Nezvětšuje produkční sitemapu.
+- Odkazy, canonical i sitemap používají čisté adresy. Dřívější `/minimal/` se přesměruje na stejnou stránku bez prefixu.
+- Náhled má nadále `noindex, nofollow`; nastavení pro skutečné nasazení je samostatné rozhodnutí.
 
 ## Interakce
 
@@ -29,13 +29,12 @@ Obsahová omezení a podklady před publikací jsou společné pro obě varianty
 ## Ověření
 
 ```powershell
-$env:AUDIT_MINIMAL = '1'
-$env:AUDIT_OUTPUT = 'memory/tasks/feature/2026-10-27-minimal-variant/verification'
+$env:AUDIT_OUTPUT = '.tmp/audit-sabris'
 node apps/web/scripts/audit.mjs
 ```
 
-Audit se spouští proti produkčnímu náhledu na portu 5591. Měří obě varianty, přístupnost, geometrii, odkazy a interakce. Původní homepage a reference porovnává se snímky z dokončené migrace. Mobilní profily emulují Pixel 5 a iPhone 13 v Edge/Chromium; nejde o nativní Safari.
+Audit se spouští proti produkčnímu náhledu na portu 5591. Měří přístupnost, geometrii, odkazy a interakce moderní varianty. Mobilní profily emulují Pixel 5 a iPhone 13 v Edge/Chromium; nejde o nativní Safari. Historický audit obou variant zůstává v archivovaném plánu.
 
-Poslední úplný běh 27. 10. 2026 prošel: 68 kombinací stránek/zařízení, 40 odkazů, bez nalezených chyb. Prošly také typecheck, formát, lint a produkční build. Šest snímků původní varianty má oproti migrační baseline záměrné změny požadované později uživatelem (hlavička, panel služeb, logo Krásna); pixelová shoda se neprohlašuje.
+Historický běh obou variant 27. 10. 2026 pokryl 68 kombinací stránek/zařízení a 40 odkazů bez nalezených chyb. Šest snímků původní varianty mělo oproti migrační baseline záměrné změny požadované později uživatelem; pixelová shoda se neprohlašuje.
 
 Barevné logo Krásna má v kartách výjimku z bílého filtru; společná komponenta pokrývá homepage i přehled příběhů. Ověřeno na obou variantách při šířkách 1495 a 390 px.

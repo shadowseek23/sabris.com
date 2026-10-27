@@ -17,6 +17,7 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       { source: "/reference/kosik-cz-2", destination: "/reference/kosik-cz/", permanent: true },
+      { source: "/minimal/:path*", destination: "/:path*/", permanent: false },
     ];
   },
   images: {

@@ -1,10 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowUpRight, ArrowDownRight } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 import { media, stories, aboutLinks } from "@/data/content";
 import styles from "./theme.module.css";
 
-export const minimalHref = (path: string) => `/minimal${path.startsWith("/") ? path : `/${path}`}`;
+export const minimalHref = (path: string) => (path.startsWith("/") ? path : `/${path}`);
 export function MinimalButton({
   href,
   children,
@@ -38,7 +38,7 @@ export function MinimalHero({ title, description }: { title: string; description
   return (
     <section className={`${styles.innerHero} ${styles.wrap}`}>
       <nav className={styles.breadcrumbs} aria-label="Drobečková navigace">
-        <Link href="/minimal/">Sabris</Link>
+        <Link href="/">Sabris</Link>
         <span aria-hidden="true">/</span>
         <span>{title}</span>
       </nav>
@@ -119,11 +119,7 @@ export function MinimalFooter() {
         <Eyebrow>Pojďme najít společnou řeč.</Eyebrow>
         <div className={styles.footerHeading}>
           <h2>Má to řešení.</h2>
-          <Link
-            href="/minimal/kontakt/"
-            className={styles.roundArrow}
-            aria-label="Kontaktujte Sabris"
-          >
+          <Link href="/kontakt/" className={styles.roundArrow} aria-label="Kontaktujte Sabris">
             <ArrowUpRight size={45} strokeWidth={1.2} />
           </Link>
         </div>
@@ -140,9 +136,9 @@ export function MinimalFooter() {
             </p>
           </div>
           <div>
-            <Link href="/minimal/reseni-a-sluzby/">Řešení a služby</Link>
-            <Link href="/minimal/pribehy-zakazniku/">Příběhy zákazníků</Link>
-            <Link href="/minimal/pridej-se-k-nam/">Přidej se k nám</Link>
+            <Link href="/reseni-a-sluzby/">Řešení a služby</Link>
+            <Link href="/pribehy-zakazniku/">Příběhy zákazníků</Link>
+            <Link href="/pridej-se-k-nam/">Přidej se k nám</Link>
             <a href="https://cz.linkedin.com/company/sabris">
               LinkedIn <ArrowUpRight size={12} style={{ display: "inline" }} />
             </a>
@@ -158,10 +154,7 @@ export function MinimalFooter() {
         <div className={styles.footerBottom}>
           <span>© {new Date().getFullYear()} Sabris</span>
           <div>
-            <Link href="/minimal/zasady-ochrany-osobnich-udaju/">Ochrana soukromí</Link>
-            <Link href="/">
-              Původní varianta <ArrowDownRight size={12} style={{ display: "inline" }} />
-            </Link>
+            <Link href="/zasady-ochrany-osobnich-udaju/">Ochrana soukromí</Link>
           </div>
         </div>
       </div>

@@ -7,7 +7,7 @@ Vlastník: správce projektu Sabris. Revize: 2026-10-27.
 Zdroj: https://web-dev.sabris.com/. Nový web není nasazený a původní produkci nemění.
 Vývoj http://localhost:5590, produkční náhled http://localhost:5591, budoucí Studio 5593.
 Hosting, DNS a produkční přístupy zatím nejsou propojené.
-Minimalistická varianta: http://localhost:5590/minimal/ nebo produkční náhled http://localhost:5591/minimal/. Obě varianty sdílejí jeden server.
+Moderní varianta používá čisté URL. Předchozí `/minimal/` přesměrovává na stejnou cestu bez prefixu. Původní varianta je skrytá.
 
 ## Spuštění
 
@@ -39,6 +39,12 @@ Nasazení není provedeno. Před publikací schválit redakční podklady a nast
 Lokální obnovu provést v samostatném checkoutu ověřeného commitu, nainstalovat z lockfilu a vytvořit build. Nepřepisovat neuložené změny. Hostingový rollback doplnit po volbě hostingu.
 
 Git uchovává zdroj, data a původní média. Obsahové zrcadlo je migrační podklad a nenahrazuje zálohu WordPressu. Produkční tokeny neexistují; při budoucím zavedení doplnit rotaci, správce a obnovu.
+
+### Záloha před skrytím původní varianty
+
+Lokální ZIP `backups/sabris-pred-skrytim-2026-10-27.zip` obsahuje všechny verzované soubory stavu `951783dcef021d395d64ebef2ff8552108b06d85`; není součástí Gitu a neobsahuje `node_modules` ani necommitované soubory. SHA-256: `AE5A49DDFCA7DAE929689302EB968EE78DD3DA73C03554565B8508424DF00288`. ZIP prošel CRC kontrolou. Původní routy jsou navíc v `archive/classic/` a celý commit označuje lokální tag `backup/classic-2026-10-27`.
+
+Obnova bez přepsání současného webu: vytvořit samostatnou složku mimo tento checkout, rozbalit do ní ZIP, spustit `bun install --frozen-lockfile`, `bun run build` a náhled na volném rezervovaném portu. Případně zvolit samostatný checkout komitu podle SHA. Tag i ZIP jsou pouze lokální; pro nezávislou zálohu je potřeba ZIP zkopírovat na jiné úložiště.
 
 ## Diagnostika
 

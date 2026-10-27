@@ -71,7 +71,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const story = stories.find((s) => path === `reference/${s.slug}`);
   return {
     title: path
-      ? `${service?.label ?? story?.name ?? staticPages[path]?.title ?? "Stránka nenalezena"} — minimalistická varianta`
+      ? `${service?.label ?? story?.name ?? staticPages[path]?.title ?? "Stránka nenalezena"}`
       : "Sabris — Mluvíme Vaším jazykem",
     description:
       service?.subtitle ??
@@ -98,7 +98,7 @@ export default async function MinimalPage({ params }: Props) {
           </div>
           <div>
             <p>{service.text}</p>
-            <MinimalButton href="/minimal/kontakt/">Proberme váš provoz</MinimalButton>
+            <MinimalButton href="/kontakt/">Proberme váš provoz</MinimalButton>
           </div>
         </section>
         <div className={`${styles.innerImage} ${styles.wrap}`}>
@@ -133,7 +133,7 @@ export default async function MinimalPage({ params }: Props) {
                 Nejdřív poznáme váš provoz, stávající systémy a potřeby lidí. Společně pojmenujeme
                 priority, rozsah i návaznosti. Pak navrhneme postup, který dává smysl právě vám.
               </p>
-              <MinimalButton href="/minimal/kontakt/" outline>
+              <MinimalButton href="/kontakt/" outline>
                 Pojďme si promluvit
               </MinimalButton>
             </div>
@@ -149,14 +149,14 @@ export default async function MinimalPage({ params }: Props) {
                 SAP ERP a S2AP for Food propojují klíčové výrobní a podnikové procesy v jednom
                 systému.
               </p>
-              <MinimalButton href="/minimal/reference/mp-krasno/">Příběh MP Krásno</MinimalButton>
+              <MinimalButton href="/reference/mp-krasno/">Příběh MP Krásno</MinimalButton>
             </section>
           </>
         ) : (
           <section className={`${styles.bodyCopy} ${styles.wrap}`}>
             <h2>Jeden provoz. Společná řeč.</h2>
             <p>MES a MOM navrhujeme v souvislostech s oborovým řešením a podnikovými procesy.</p>
-            <MinimalButton href="/minimal/reseni-a-sluzby/smart-potravinarstvi/" outline>
+            <MinimalButton href="/reseni-a-sluzby/smart-potravinarstvi/" outline>
               Smart potravinářství
             </MinimalButton>
           </section>
@@ -217,7 +217,7 @@ export default async function MinimalPage({ params }: Props) {
           ) : null}
         </section>
         <div className={styles.wrap}>
-          <Link href="/minimal/pribehy-zakazniku/" className={styles.backLink}>
+          <Link href="/pribehy-zakazniku/" className={styles.backLink}>
             ← Zpět na příběhy zákazníků
           </Link>
         </div>
@@ -232,11 +232,7 @@ export default async function MinimalPage({ params }: Props) {
         <section className={`${styles.wrap} ${styles.sectionSmall}`}>
           <div className={styles.serviceRows} style={{ marginTop: 0 }}>
             {services.map((s, i) => (
-              <Link
-                href={`/minimal/reseni-a-sluzby/${s.slug}/`}
-                key={s.slug}
-                className={styles.serviceRow}
-              >
+              <Link href={`/reseni-a-sluzby/${s.slug}/`} key={s.slug} className={styles.serviceRow}>
                 <span>0{i + 1}</span>
                 <h3>{s.label}</h3>
                 <p>{s.subtitle}</p>
@@ -255,7 +251,7 @@ export default async function MinimalPage({ params }: Props) {
                 Od oborových potřeb až po konkrétní výrobní operaci. Navrhujeme propojení, které
                 vašemu provozu pomůže pracovat se stejnými informacemi.
               </p>
-              <MinimalButton href="/minimal/kontakt/">Najděme vaše řešení</MinimalButton>
+              <MinimalButton href="/kontakt/">Najděme vaše řešení</MinimalButton>
             </div>
           </div>
         </section>
@@ -477,7 +473,7 @@ export default async function MinimalPage({ params }: Props) {
               year: "2017",
               name: "Marvinpac CZ",
               text: "3. místo v SAP CEE Quality Awards v kategorii Rychlá implementace za nasazení SAP S/4HANA během čtyř měsíců.",
-              href: "/minimal/reference/marvinpac/",
+              href: "/reference/marvinpac/",
             },
             {
               year: "2012",

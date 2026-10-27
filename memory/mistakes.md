@@ -1,5 +1,17 @@
 # Chyby a prevence
 
+## 2026-10-27 – Zastaralé typy vývojových rout
+
+- Problém: přesun rout nechal v `.next/dev/types` generované validátory starých adres; samotné `next typegen` obnovilo jen `.next/types`. Následně jsem před přečtením výsledku typechecku předčasně spustil formát a lint.
+- Náprava: po ověření, že vývojový server neběží, byly odstraněny pouze zastaralé generované `validator.ts` a `routes.d.ts`; všechny kontroly se opakují v povinném pořadí.
+- Prevence: při přesunu App Router rout zkontrolovat oddělené typy dev i produkčního buildu a další krok kontroly spustit až po úspěšném dokončení předchozího.
+
+## 2026-10-27 – Hromadná náhrada prefixu URL
+
+- Problém: náhrada `/minimal/` zasáhla i importy `@/components/minimal/`.
+- Náprava: importy byly před sestavením obnoveny a všechny zasažené výskyty zkontrolovány.
+- Prevence: nahrazovat jen přesně vymezené URL řetězce, ne shodné úseky cest v importech; po hromadné úpravě ověřit diff a typecheck.
+
 ## 2026-10-27 – Bílé logo na světlém podkladu
 
 - Problém: logo Marvinpac z carouselu se sdílelo i na světlých plochách, kde bílé provedení zmizelo.

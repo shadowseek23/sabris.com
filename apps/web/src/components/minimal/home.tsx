@@ -20,8 +20,8 @@ export function MinimalHome() {
         </div>
         <div className={styles.heroBottom}>
           <div className={styles.heroLead}>
-            <MinimalButton href="/minimal/reseni-a-sluzby/">Najděme vaše řešení</MinimalButton>
-            <span className={styles.friendly}>Odborně. Srozumitelně. Po lidsku.</span>
+            <MinimalButton href="/reseni-a-sluzby/">Najděme vaše řešení</MinimalButton>
+            <span className={styles.friendly}>Odborně. Srozumitelně. Lidsky.</span>
           </div>
           <p>
             Propojujeme výrobu, data a lidi. Aby vaše firma fungovala v souvislostech a měla prostor
@@ -61,7 +61,7 @@ export function MinimalHome() {
             </p>
           </div>
           <Link
-            href="/minimal/reseni-a-sluzby/smart-potravinarstvi/"
+            href="/reseni-a-sluzby/smart-potravinarstvi/"
             className={styles.roundArrow}
             aria-label="Prozkoumat Smart potravinářství"
           >
@@ -77,7 +77,7 @@ export function MinimalHome() {
         </p>
         <div className={styles.logoList}>
           {stories.map((s) => (
-            <Link href={`/minimal/reference/${s.slug}/`} key={s.slug}>
+            <Link href={`/reference/${s.slug}/`} key={s.slug}>
               <Image src={media(s.logoOnLight)} width={200} height={75} alt={s.name} />
             </Link>
           ))}
@@ -100,11 +100,7 @@ export function MinimalHome() {
         </div>
         <div className={styles.serviceRows}>
           {services.map((s, i) => (
-            <Link
-              href={`/minimal/reseni-a-sluzby/${s.slug}/`}
-              key={s.slug}
-              className={styles.serviceRow}
-            >
+            <Link href={`/reseni-a-sluzby/${s.slug}/`} key={s.slug} className={styles.serviceRow}>
               <span>0{i + 1}</span>
               <h3>{s.label}</h3>
               <p>{s.subtitle}</p>
@@ -131,7 +127,7 @@ export function MinimalHome() {
               <CaseCard key={s.slug} story={s} />
             ))}
           </div>
-          <Link className={styles.textLink} href="/minimal/pribehy-zakazniku/">
+          <Link className={styles.textLink} href="/pribehy-zakazniku/">
             Všechny příběhy <ArrowUpRight size={18} />
           </Link>
         </div>
@@ -161,7 +157,7 @@ export function MinimalHome() {
           <p>
             Bez zbytečné formálnosti. S otevřeností o tom, co dává smysl a co bude potřeba změnit.
           </p>
-          <Link className={styles.textLink} href="/minimal/o-sabris/o-nas/">
+          <Link className={styles.textLink} href="/o-sabris/o-nas/">
             Poznejte Sabris <ArrowUpRight size={18} />
           </Link>
         </div>
@@ -176,7 +172,7 @@ export function MinimalHome() {
             kravatu.
           </p>
         </div>
-        <MinimalButton href="/minimal/pridej-se-k-nam/" outline>
+        <MinimalButton href="/pridej-se-k-nam/" outline>
           Přidej se k nám
         </MinimalButton>
       </section>

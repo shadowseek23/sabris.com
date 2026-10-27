@@ -11,7 +11,7 @@ soubor (např. `CLAUDE.md`), považuj tento dokument za nadřazený zdroj pravdy
 
 ## Projektový kontext
 
-Sabris — český prezentační web na Next.js. Původní varianta je na `/`, samostatná minimalistická varianta na `/minimal/`. Obsah je verzovaný v kódu; Sanity Studio je připravený scaffold bez připojeného projektu.
+Sabris — český prezentační web na Next.js. Moderní varianta běží na `/` a původních adresách; starší `/minimal/` se přesměrovává. Původní varianta je skrytá, její routy jsou v `archive/classic/` a obnovitelný stav je v lokálním tagu `backup/classic-2026-10-27`. Obsah je verzovaný v kódu; Sanity Studio je připravený scaffold bez připojeného projektu.
 
 **Stav: lokální funkční web; produkční nasazení neproběhlo.**
 
@@ -26,7 +26,7 @@ Sabris — český prezentační web na Next.js. Původní varianta je na `/`, s
 
 ## Tři věci, které musíš vědět předem
 
-- Původní design a minimalistická alternativa musí zůstat oddělené; změnu jedné ověř i proti druhé.
+- Moderní varianta má čisté URL; původní varianta je archivovaná a nesmí se bez zadání znovu zpřístupnit.
 - Nevracej neplatné služby, OpenText/Microsoft, staré fotografie zaměstnanců ani neověřené benefity.
 - Původní carousely mají autoplay vypnutý, 500ms posun a cyklický návrat. Zdrojové podklady jsou u dokončeného migračního plánu.
 

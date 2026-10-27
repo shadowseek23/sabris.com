@@ -6,19 +6,14 @@ import { resolve } from "node:path";
 
 const require = createRequire(import.meta.url);
 const origin = process.env.AUDIT_ORIGIN || "http://localhost:5591";
-const includeMinimal = process.env.AUDIT_MINIMAL === "1";
-const output = resolve(
-  process.env.AUDIT_OUTPUT || "memory/tasks/feature/2026-10-27-nextjs-migration/verification",
-);
+const output = resolve(process.env.AUDIT_OUTPUT || ".tmp/audit-sabris");
 await mkdir(output, { recursive: true });
 const browserChannel = process.env.AUDIT_BROWSER || "msedge";
 const browser = await chromium.launch({ channel: browserChannel, headless: true });
 const sitemap = await fetch(`${origin}/sitemap.xml`).then((r) => r.text());
-const classicRoutes = [...sitemap.matchAll(/<loc>https:\/\/www\.sabris\.com([^<]*)<\/loc>/g)].map(
+const routes = [...sitemap.matchAll(/<loc>https:\/\/www\.sabris\.com([^<]*)<\/loc>/g)].map(
   (m) => m[1],
 );
-const minimalRoutes = classicRoutes.map((path) => `/minimal${path}`);
-const routes = includeMinimal ? [...classicRoutes, ...minimalRoutes] : classicRoutes;
 const results = [];
 const interactions = [];
 const axe = await readFile(require.resolve("axe-core/axe.min.js"), "utf8");
@@ -35,12 +30,7 @@ try {
       reducedMotion: "reduce",
     });
     const page = await context.newPage();
-    const paths =
-      name === "desktop"
-        ? routes
-        : includeMinimal
-          ? [...minimalRoutes, "/", "/pribehy-zakazniku/"]
-          : ["/", "/pribehy-zakazniku/", "/reseni-a-sluzby/", "/kontakt/"];
+    const paths = routes;
     for (const path of paths) {
       const errors = [];
       const handleError = (e) => errors.push(e.message);
@@ -105,10 +95,8 @@ try {
         errors,
         accessibility,
       };
-      if (["/", "/pribehy-zakazniku/", "/minimal/", "/minimal/pribehy-zakazniku/"].includes(path)) {
-        const label =
-          (path.startsWith("/minimal/") ? "minimal-" : "") +
-          (path.endsWith("pribehy-zakazniku/") ? "references" : "home");
+      if (["/", "/pribehy-zakazniku/"].includes(path)) {
+        const label = path.endsWith("pribehy-zakazniku/") ? "minimal-references" : "minimal-home";
         const first = await page.screenshot({
           animations: "disabled",
           caret: "hide",
@@ -122,14 +110,6 @@ try {
         const hash = (b) => createHash("sha256").update(b).digest("hex");
         item.screenshotsStable = hash(first) === hash(second);
         item.screenshotWidth = first.readUInt32BE(16);
-        if (includeMinimal && !path.startsWith("/minimal/") && browserChannel === "msedge") {
-          const baseline = await readFile(
-            resolve(
-              `memory/tasks/feature/2026-10-27-nextjs-migration/verification/${name}-${label}.png`,
-            ),
-          );
-          item.classicBaselineMatch = hash(second) === hash(baseline);
-        }
         await writeFile(`${output}/${name}-${label}.png`, second);
         await page.screenshot({
           path: `${output}/${name}-${label}-full.png`,
@@ -141,61 +121,14 @@ try {
       results.push(item);
       page.off("pageerror", handleError);
     }
-    if (name === "desktop") {
-      await page.emulateMedia({ reducedMotion: "no-preference" });
-      await page.goto(origin + "/");
-      for (const expected of [
-        "Zobrazit Marvinpac",
-        "Zobrazit Košík.cz",
-        "Zobrazit MP Krásno",
-        "Zobrazit Marvinpac",
-        "Zobrazit Košík.cz",
-        "Zobrazit MP Krásno",
-      ]) {
-        await page.getByRole("button", { name: "Další příběh", exact: true }).click();
-        await page.waitForFunction((name) => {
-          const active = document.querySelector(".carousel-dots [aria-current]");
-          const slide = document.querySelector(".story-slide:not([inert])");
-          const box = slide?.getBoundingClientRect();
-          return (
-            active?.getAttribute("aria-label") === name &&
-            box &&
-            Math.abs(box.x + box.width / 2 - document.documentElement.clientWidth / 2) < 1
-          );
-        }, expected);
-      }
-      interactions.push({ test: "Dva úplné cykly carouselu", passed: true });
+    {
+      await page.emulateMedia({ reducedMotion: "reduce" });
       await page.goto(origin + "/pribehy-zakazniku/");
-      const card = page.locator(".reference-card").first();
-      await card.hover();
-      await page.waitForFunction(
-        () => getComputedStyle(document.querySelector(".reference-overlay")).opacity === "0",
-      );
-      const hover = await card.evaluate((el) => ({
-        transform: getComputedStyle(el).transform,
-        duration: getComputedStyle(el).transitionDuration,
-        overlay: getComputedStyle(el.querySelector(".reference-overlay")).opacity,
-      }));
-      if (!hover.transform.startsWith("matrix(1.04"))
-        throw new Error("Card hover scale differs from source: " + hover.transform);
-      interactions.push({ test: "Hover reference podle předlohy", ...hover, passed: true });
-      await page.screenshot({ path: output + "/desktop-reference-hover.png", scale: "css" });
-      await page.emulateMedia({ reducedMotion: "reduce" });
-      const motion = await card.evaluate((el) => getComputedStyle(el).transitionDuration);
-      interactions.push({
-        test: "Reduced motion",
-        duration: motion,
-        passed: parseFloat(motion) < 0.001,
-      });
-    }
-    if (includeMinimal) {
-      await page.emulateMedia({ reducedMotion: "reduce" });
-      await page.goto(origin + "/minimal/pribehy-zakazniku/");
       await page.getByRole("button", { name: "Potravinářství", exact: true }).click();
       const filtered = (await page.getByRole("status").textContent()).trim();
       if (filtered !== "1 příběh") throw new Error("Minimal reference filter failed: " + filtered);
       interactions.push({ test: "Minimalistická varianta: filtr", device: name, passed: true });
-      await page.goto(origin + "/minimal/reseni-a-sluzby/smart-potravinarstvi/");
+      await page.goto(origin + "/reseni-a-sluzby/smart-potravinarstvi/");
       await page.locator("summary").filter({ hasText: "Co vám řešení přinese" }).click();
       if (
         !(await page.locator("details").nth(1).getAttribute("open")) &&
@@ -205,11 +138,7 @@ try {
       interactions.push({ test: "Minimalistická varianta: akordeon", device: name, passed: true });
       if (name !== "desktop") {
         await page.getByRole("button", { name: "Otevřít menu", exact: true }).click();
-        if (
-          !(await page
-            .getByRole("navigation", { name: "Navigace minimalistické varianty" })
-            .isVisible())
-        )
+        if (!(await page.getByRole("navigation", { name: "Hlavní navigace" }).isVisible()))
           throw new Error("Mobile navigation missing");
         await page.getByRole("button", { name: "Zavřít menu", exact: true }).click();
         interactions.push({
@@ -253,7 +182,8 @@ try {
       r.mains !== 1 ||
       r.headers !== 1 ||
       r.footers !== 1 ||
-      (r.path.startsWith("/minimal/") && !r.robots?.includes("noindex")) ||
+      !r.robots?.includes("noindex") ||
+      r.canonical !== `https://www.sabris.com${r.path}` ||
       r.width !== r.clientWidth ||
       r.scrollWidth > r.width ||
       r.errors.length ||
@@ -278,9 +208,6 @@ try {
           stable: r.screenshotsStable,
         })),
         badLinks: linkResults.filter((l) => l.status >= 400),
-        visualReview: results
-          .filter((r) => r.classicBaselineMatch === false)
-          .map((r) => ({ device: r.device, path: r.path })),
         redirects,
       },
       null,

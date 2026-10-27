@@ -27,6 +27,7 @@ apps/studio/.sanity/
 
 # Scratch
 .tmp/
+backups/
 .worktrees/
 .claude/worktrees/
 # Lokální preview konfigurace Claude Code (dev server pro náhled), nepatří do repa

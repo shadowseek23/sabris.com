@@ -12,18 +12,14 @@ export function MinimalNavigation() {
   const [open, setOpen] = useState(false);
   const path = usePathname();
   const links = [
-    ["/minimal/reseni-a-sluzby/", "Řešení"],
-    ["/minimal/pribehy-zakazniku/", "Naše práce"],
-    ["/minimal/o-sabris/o-nas/", "O Sabris"],
-    ["/minimal/pridej-se-k-nam/", "Kariéra"],
+    ["/reseni-a-sluzby/", "Řešení"],
+    ["/pribehy-zakazniku/", "Naše práce"],
+    ["/o-sabris/o-nas/", "O Sabris"],
+    ["/pridej-se-k-nam/", "Kariéra"],
   ];
   return (
     <header className={`${styles.header} ${styles.wrap}`}>
-      <Link
-        href="/minimal/"
-        aria-label="Sabris – minimalistická varianta"
-        onClick={() => setOpen(false)}
-      >
+      <Link href="/" aria-label="Sabris – úvod" onClick={() => setOpen(false)}>
         <Image
           src={media("logo_sabris_simple.png")}
           width={173}
@@ -44,7 +40,7 @@ export function MinimalNavigation() {
       </button>
       <nav
         id="minimal-nav"
-        aria-label="Navigace minimalistické varianty"
+        aria-label="Hlavní navigace"
         className={`${styles.nav} ${open ? styles.navOpen : ""}`}
         onKeyDown={(e) => {
           if (e.key === "Escape") {
@@ -63,7 +59,7 @@ export function MinimalNavigation() {
             {label}
           </Link>
         ))}
-        <Link href="/minimal/kontakt/" className={styles.pill} onClick={() => setOpen(false)}>
+        <Link href="/kontakt/" className={styles.pill} onClick={() => setOpen(false)}>
           Pojďme se potkat <ArrowUpRight size={17} />
         </Link>
       </nav>

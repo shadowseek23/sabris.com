@@ -9,11 +9,10 @@
 - Média a loga, historická ocenění a ISO 27001 zůstávají; neověřená platnost dokumentů se netvrdí.
 - Odstraněny akce, společenská odpovědnost, staré tiskové zprávy a materiály, OpenText a Microsoft.
 - CzechTrade a Český svaz zpracovatelů masa na homepage a u Smart potravinářství.
-- Carousel: ruční cyklické přepínání, 500 ms, 650 × 380 px a 48px rozestupy; autoplay vypnutý.
-- Karty: scale 1.04, odstranění překryvu opacity 0.6, oranžový nadpis, 300ms přechod.
-- Mobil: místo přepínače řešení odkazy jako ve zdroji; funkční menu, carousel a filtry.
+- Archivovaná původní varianta: carousel s ručním cyklickým přepínáním 500 ms a vypnutým autoplay; efekty karet a mobilní řešení podle zdroje.
+- Moderní varianta: funkční mobilní menu, filtr příběhů a rozbalovací části služeb.
 - Bez analytiky, externích fontů a nefunkčních odesílacích formulářů.
 
 Produkční nasazení, založení CMS a překlady EN/SK nejsou provedené. Podklady k potvrzení: [obsahová revize](../content-review.md).
 
-Samostatná alternativa pod `/minimal/` propojuje Sabris s minimalistickým stylem inspirovaným Clay. Zachovává obsahová omezení a má všech 16 stránek, vlastní navigaci, responzivní layout a efekty respektující reduced motion. Původní varianta zůstává funkční na původních URL.
+Moderní varianta propojuje Sabris s minimalistickým stylem inspirovaným Clay. Má všech 16 stránek na čistých adresách, responzivní layout a efekty respektující reduced motion. Původní varianta je archivovaná, `/minimal/` přesměrovává na odpovídající čistou adresu.

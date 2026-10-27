@@ -15,6 +15,8 @@
 
 ### Changed
 
+- Moderní varianta běží na čistých URL, `/minimal/` přesměrovává; původní varianta je archivovaná a zálohovaná.
+- Úvodní claim upraven na „Odborně. Srozumitelně. Lidsky.“
 - Nabídka zaměřena na Smart potravinářství, MES a MOM; O nás a kariéra dostaly konkrétní texty.
 - Reference omezeny na MP Krásno, Marvinpac a Košík.cz s důrazem na logistiku.
 - Certifikace oddělují ISO 27001 od neověřených detailů; podklady čekající na potvrzení jsou v docs/content-review.md.

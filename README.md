@@ -1,6 +1,6 @@
 # Sabris
 
-Česká Next.js konverze opraveného webu https://web-dev.sabris.com/ ze společné šablony `nextjs-sanity-template`. Zachovává původní identitu, média, ruční cyklický carousel, přepínač řešení a efekty referenčních karet.
+Český Next.js web Sabris podle opraveného zdroje https://web-dev.sabris.com/, vytvořený ze společné šablony `nextjs-sanity-template`. Aktuální varianta propojuje identitu Sabris s minimalistickým designem.
 
 ## Spuštění
 
@@ -11,9 +11,9 @@ bun run dev
 
 Web: http://localhost:5590. Produkční náhled: `bun run build` a `bun run start` na http://localhost:5591. Budoucí Studio má rezervovaný port 5593.
 
-## Samostatná minimalistická varianta
+## Moderní varianta a záloha
 
-Alternativa inspirovaná Clay je na http://localhost:5590/minimal/ (produkční náhled http://localhost:5591/minimal/). Obsahuje vlastní homepage i všech 15 podstránek; původní varianta zůstává na `/`. Obě používají stejné obsahové podklady. [Návrh a ověření](docs/design/minimal-variant.md).
+Moderní varianta inspirovaná Clay je na http://localhost:5590/ (produkční náhled http://localhost:5591/). Obsahuje homepage a 15 podstránek na čistých adresách; předchozí adresy s `/minimal/` se přesměrovávají. Původní varianta je skrytá a zálohovaná. [Návrh a ověření](docs/design/minimal-variant.md) · [Obnova zálohy](docs/runbook.md).
 
 ## Kontroly
 
